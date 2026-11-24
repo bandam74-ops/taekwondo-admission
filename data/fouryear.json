@@ -1,0 +1,1891 @@
+[
+  {
+    "id": "yongin-tkd",
+    "type": "4year",
+    "university": "용인대학교",
+    "department": "태권도학과",
+    "college": "무도대학",
+    "region": "경기",
+    "city": "용인시",
+    "establishment": "사립",
+    "website": "https://www.yongin.ac.kr",
+    "admissionsUrl": "https://ipsi.yongin.ac.kr",
+    "tracks": [
+      "겨루기",
+      "공인품새",
+      "자유품새",
+      "시범"
+    ],
+    "careers": [
+      "태권도 지도자",
+      "태권도 선수",
+      "체육교사",
+      "경호",
+      "경찰 무도특채"
+    ],
+    "highlights": "무도대학 소속 대표적 태권도학과로 일반학생(겨루기 및 품새)과 체육우수자(시범·겨루기·공인품새·자유품새) 전형으로 선발한다. 총장기 전국태권도대회를 주최한다.",
+    "year": 2027,
+    "admissions": [
+      {
+        "round": "수시",
+        "name": "일반학생전형",
+        "category": "실기위주",
+        "quota": 33,
+        "elements": {
+          "학생부": 30,
+          "실기": 70
+        },
+        "practical": "기본발차기(뒤차기, 뒤돌아후려차기, 돌개차기, 뛰어 360도 뒤돌아후려차기), 품새(고려), 겨루기(40초 미트 자유겨루기)",
+        "requirements": "고교 졸업(예정)자",
+        "csatMinimum": "없음",
+        "competitionRate": null,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 수시모집요강 기준(모집단위: 겨루기 및 품새). 기회균형 특별전형 2명, 농어촌 1명·특성화고 3명(정원외)도 같은 방식으로 선발"
+      },
+      {
+        "round": "수시",
+        "name": "체육우수자 특별전형",
+        "category": "특기자",
+        "quota": 43,
+        "elements": {
+          "학생부": 30,
+          "실기": 40,
+          "실적": 30
+        },
+        "practical": "전공별 실기: 겨루기(기본·실전 발차기, 미트 자유발차기), 공인품새(기본발차기, 금강·평원), 자유품새(기본·기술 발차기), 시범(고려품새, 수직회전·체공도약·수평회전 격파)",
+        "requirements": "고교 재학 중(2024.3.1~2026.10.22) 전국규모대회 3위 이내 입상자 또는 국가대표. 시범·품새 전공은 개인전 실적만 인정",
+        "csatMinimum": "없음",
+        "competitionRate": null,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 수시모집요강 기준. 전공별 인원: 시범 10, 겨루기 23, 공인품새 7, 자유품새 3. 학생부는 교과 24%+출결 6%"
+      }
+    ],
+    "sources": [
+      "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/용인대학교/용인대학교_2027학년도_수시모집요강.pdf"
+    ],
+    "verified": true,
+    "lastChecked": "2026-11-25"
+  },
+  {
+    "id": "kyunghee-tkd",
+    "type": "4year",
+    "university": "경희대학교",
+    "department": "태권도학과",
+    "college": "체육대학",
+    "region": "경기",
+    "city": "용인시",
+    "establishment": "사립",
+    "website": "https://www.khu.ac.kr",
+    "admissionsUrl": "https://iphak.khu.ac.kr",
+    "tracks": [
+      "겨루기",
+      "공인품새",
+      "자유품새",
+      "격파"
+    ],
+    "careers": [
+      "태권도 지도자",
+      "태권도 선수",
+      "체육교사",
+      "국제 태권도 사범",
+      "스포츠 행정"
+    ],
+    "highlights": "국제캠퍼스 체육대학 소속으로, 학생부종합(네오르네상스)과 경기실적 중심 실기우수자전형(체육)으로 선발한다. 모든 전형에서 태권도 2단(품) 이상이 필요하다.",
+    "year": 2027,
+    "admissions": [
+      {
+        "round": "수시",
+        "name": "네오르네상스전형",
+        "category": "학생부종합",
+        "quota": 12,
+        "elements": {
+          "서류": 70,
+          "면접": 30
+        },
+        "practical": null,
+        "requirements": "태권도 2단(품) 이상 단증 소지자",
+        "csatMinimum": "없음",
+        "competitionRate": null,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 수시모집요강 기준. 1단계 서류 100%(3배수), 2단계 1단계 성적 70%+면접 30%"
+      },
+      {
+        "round": "수시",
+        "name": "실기우수자전형(체육)",
+        "category": "특기자",
+        "quota": 32,
+        "elements": {
+          "실적": 70,
+          "학생부": 20,
+          "면접": 10
+        },
+        "practical": null,
+        "requirements": "2025~2026년 본교 인정 전국대회 개인전 입상 등 종목별 등급 기준 충족자(겨루기·품새·격파), 태권도 2단(품) 이상",
+        "csatMinimum": "없음",
+        "competitionRate": null,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 수시모집요강 기준. 종목별: 겨루기 15, 공인품새(복합품새) 5, 자유품새(복합품새) 4, 격파 남 5·여 3. 학생부는 교과·비교과(출결·봉사)"
+      },
+      {
+        "round": "수시",
+        "name": "기회균형전형Ⅰ·Ⅱ",
+        "category": "학생부종합",
+        "quota": 5,
+        "elements": {
+          "서류": 70,
+          "학생부": 30
+        },
+        "practical": null,
+        "requirements": "전형별 대상자(국가보훈, 기초·차상위, 다자녀·다문화 등) 및 태권도 2단(품) 이상",
+        "csatMinimum": "없음",
+        "competitionRate": null,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 수시모집요강 기준. 기회균형Ⅰ 2명, 기회균형Ⅱ 3명 합산"
+      }
+    ],
+    "sources": [
+      "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/경희대학교/경희대학교_2027학년도_수시모집요강.pdf"
+    ],
+    "verified": true,
+    "lastChecked": "2026-11-25"
+  },
+  {
+    "id": "knsu-tkd",
+    "type": "4year",
+    "university": "한국체육대학교",
+    "department": "태권도학과",
+    "college": "스포츠문화예술대학",
+    "region": "서울",
+    "city": "송파구",
+    "establishment": "국립",
+    "website": "https://ipsi.knsu.ac.kr/ipsi/info/taekwondo.do",
+    "admissionsUrl": "https://ipsi.knsu.ac.kr",
+    "tracks": [
+      "공인품새",
+      "자유품새",
+      "시범",
+      "겨루기"
+    ],
+    "careers": [
+      "태권도 지도자",
+      "태권도 시범단",
+      "체육교사",
+      "국가대표 선수",
+      "태권도 관련 공공기관"
+    ],
+    "highlights": "국립 체육 특성화대학의 태권도학과로, 품새·시범 경기실적 중심 전형과 실기우수자전형으로 소수 정예를 선발한다. 모든 전형에서 국기원 1단(품) 이상이 필요하다.",
+    "year": 2027,
+    "admissions": [
+      {
+        "round": "수시",
+        "name": "경기입상실적우수자전형",
+        "category": "특기자",
+        "quota": 15,
+        "elements": {
+          "학생부": 21,
+          "실적": 39,
+          "실기": 40
+        },
+        "practical": "2단계 실기고사(1단계 합격자 대상, 2026.11.7~8)",
+        "requirements": "태권도 1단(품) 이상, 고교 재학 중(2024~2026) 국가대표 또는 본교 인정 전국규모대회 고등부 3위 이내. 공인품새·자유품새·시범(기술격파) 실적만 인정",
+        "csatMinimum": "없음",
+        "competitionRate": 6.4,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 모집요강 기준. 1단계 학생부 35%+입상실적 65%(5배수), 2단계 1단계 60%+실기 40%(비율은 환산값). 종목별 공인품새 6, 자유품새 4, 시범 5. 경쟁률은 요강 수록 전년도(2026) 공인품새 6.00·자유품새 6.00·시범 7.40을 평균한 추정치"
+      },
+      {
+        "round": "수시",
+        "name": "실기우수자전형",
+        "category": "실기위주",
+        "quota": 5,
+        "elements": {
+          "학생부": 30,
+          "실기": 70
+        },
+        "practical": "발차기(돌려·옆·뒤·뒤후려차기 좌우 각 3회), 품새(고려), 표적 겨루기(60초 이내)",
+        "requirements": "태권도 1단(품) 이상(국기원 단증 제출 필수)",
+        "csatMinimum": "없음",
+        "competitionRate": 40.71,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 모집요강 기준 5명(모집인원 표 판독, 겨루기 계열). 경쟁률 40.71:1은 요강 수록 전년도(2026) 실기우수자 태권도학과 7명 모집 기준"
+      },
+      {
+        "round": "수시",
+        "name": "특수교육대상자전형",
+        "category": "기타",
+        "quota": 8,
+        "elements": {},
+        "practical": null,
+        "requirements": "대한장애인체육회 국가대표 또는 전문체육선수 등록자, 태권도 1단(품) 이상",
+        "csatMinimum": "없음",
+        "competitionRate": 0,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 정원외 전형. 공인품새 4, 겨루기 4. 학생부+경기실적 위주이나 PDF 표 추출이 깨져 반영비율은 확인하지 못함. 전년도(2026) 지원자 0명"
+      }
+    ],
+    "sources": [
+      "https://ipsi.knsu.ac.kr/_res/knsu/ipsi/etc/KNSU2027susi.pdf",
+      "https://ipsi.knsu.ac.kr/ipsi/regular/susi.do"
+    ],
+    "verified": true,
+    "lastChecked": "2026-11-25"
+  },
+  {
+    "id": "gachon-tkd",
+    "type": "4year",
+    "university": "가천대학교",
+    "department": "체육학부 태권도전공",
+    "college": "예술·체육대학",
+    "region": "경기",
+    "city": "성남시",
+    "establishment": "사립",
+    "website": "https://www.gachon.ac.kr",
+    "admissionsUrl": "https://admission.gachon.ac.kr",
+    "tracks": [
+      "겨루기",
+      "품새"
+    ],
+    "careers": [
+      "태권도 지도자",
+      "체육교사",
+      "생활체육 지도자",
+      "경호"
+    ],
+    "highlights": "체육학부 안의 태권도전공으로 수시 실기우수자전형에서 기본차기·표적차기·품새 실기로 선발한다.",
+    "year": 2027,
+    "admissions": [
+      {
+        "round": "수시",
+        "name": "실기우수자전형",
+        "category": "실기위주",
+        "quota": 30,
+        "elements": {
+          "학생부": 30,
+          "실기": 70
+        },
+        "practical": "기본차기, 표적차기, 품새(고려)",
+        "requirements": "고교 졸업(예정)자 또는 동등 학력자",
+        "csatMinimum": null,
+        "competitionRate": null,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 대학입학전형시행계획 및 정시모집요강 기준. 수시 미충원 시 정시로 이월. 수능최저는 확인하지 못함"
+      }
+    ],
+    "sources": [
+      "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2025/가천대학교/가천대학교_2027학년도_대학입학전형계획.pdf",
+      "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/가천대학교/가천대학교_2027학년도_정시모집요강.pdf"
+    ],
+    "verified": true,
+    "lastChecked": "2026-11-25"
+  },
+  {
+    "id": "shinhan-tkd",
+    "type": "4year",
+    "university": "신한대학교",
+    "department": "태권도학부",
+    "college": "태권도·체육대학",
+    "region": "경기",
+    "city": "의정부시",
+    "establishment": "사립",
+    "website": "https://www.shinhan.ac.kr",
+    "admissionsUrl": "https://ipsi.shinhan.ac.kr",
+    "tracks": [
+      "겨루기",
+      "품새",
+      "시범문화"
+    ],
+    "careers": [
+      "태권도 선수",
+      "태권도 지도자",
+      "태권도장 운영",
+      "태권도 공연",
+      "경찰 무도특채"
+    ],
+    "highlights": "태권도 단과대학 안의 태권도학부로 겨루기·품새·시범문화 3개 전공을 둔다. 실기우수자와 실적우수자 전형으로 선발한다.",
+    "year": 2027,
+    "admissions": [
+      {
+        "round": "수시",
+        "name": "실기우수자전형",
+        "category": "실기위주",
+        "quota": 58,
+        "elements": {
+          "학생부": 20,
+          "실기": 80
+        },
+        "practical": "겨루기: 기본발차기·표적겨루기(60초) / 품새: 기본발차기·품새(고려·평원) / 시범문화: 기본발차기·자유격파(1분 내외)",
+        "requirements": "고교 졸업(예정)자 또는 동등 학력자",
+        "csatMinimum": "없음",
+        "competitionRate": null,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 수시모집요강 기준. 전공별 겨루기 14, 품새 22, 시범문화 22. 학생부는 우수 10개 과목 반영"
+      },
+      {
+        "round": "수시",
+        "name": "실적우수자전형(태권도학부)",
+        "category": "특기자",
+        "quota": 36,
+        "elements": {
+          "학생부": 20,
+          "실적": 80
+        },
+        "practical": null,
+        "requirements": "고교 재학 중(2024.3~원서접수 마감일) 대한태권도협회 산하 가맹단체 또는 본교 인정 대회 입상자",
+        "csatMinimum": "없음",
+        "competitionRate": null,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 수시모집요강 기준. 전공별 겨루기 7, 품새 15, 시범문화 14. 학생부는 교과 10%+출결 10%"
+      }
+    ],
+    "sources": [
+      "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/신한대학교/신한대학교_2027학년도_수시모집요강.pdf"
+    ],
+    "verified": true,
+    "lastChecked": "2026-11-25"
+  },
+  {
+    "id": "sangji-tkd",
+    "type": "4year",
+    "university": "상지대학교",
+    "department": "태권도학전공",
+    "college": "예술체육대학",
+    "region": "강원",
+    "city": "원주시",
+    "establishment": "사립",
+    "website": "https://www.sangji.ac.kr",
+    "admissionsUrl": "https://ipsi.sangji.ac.kr",
+    "tracks": [
+      "겨루기",
+      "품새",
+      "시범"
+    ],
+    "careers": [
+      "태권도 사범·관장",
+      "태권도 지도자",
+      "체육교사",
+      "심판",
+      "경호",
+      "건강운동관리사"
+    ],
+    "highlights": "무예 정신과 스포츠 과학을 바탕으로 국내외 태권도 지도자를 길러내는 예술체육대학 소속 전공이다. 실기일반전형 비중이 크고 수능최저가 없다.",
+    "year": 2027,
+    "admissions": [
+      {
+        "round": "수시",
+        "name": "실기일반전형",
+        "category": "실기위주",
+        "quota": 46,
+        "elements": {
+          "학생부": 30,
+          "실기": 70
+        },
+        "practical": "원서접수 시 택1: 품새(태극7장, 고려형), 타겟 겨루기(30초 2회전), 시범(돌려차기 3단계), 시범(540도 뒤후려차기 1단계)",
+        "requirements": "고교 졸업(예정)자 또는 동등 학력자(검정고시 가능)",
+        "csatMinimum": "없음",
+        "competitionRate": 4.6,
+        "gradeCut": 5.9,
+        "csatCut": null,
+        "notes": "2027학년도 수시모집요강 기준. 경쟁률·등급은 2026학년도 결과(모집 46, 지원 212, 최초합격자 50%컷 5.3·70%컷 5.9, 최종등록자 50%컷 5.8·70%컷 6.3)"
+      },
+      {
+        "round": "수시",
+        "name": "특기자전형",
+        "category": "특기자",
+        "quota": 9,
+        "elements": {
+          "학생부": 10,
+          "실적": 60,
+          "면접": 30
+        },
+        "practical": null,
+        "requirements": "고교 2~3학년 중 대한태권도협회 또는 대한체육회 산하단체 주관 태권도대회 입상자(시범은 전국대학 총장배 실적도 인정)",
+        "csatMinimum": "없음",
+        "competitionRate": null,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 수시모집요강 기준. 종목별 겨루기 5, 품새 2, 시범 2. 면접 2026.10.31"
+      }
+    ],
+    "sources": [
+      "https://www.sangji.ac.kr/thumbnail/pdf/CMS_202608200201260141.pdf"
+    ],
+    "verified": true,
+    "lastChecked": "2026-11-25"
+  },
+  {
+    "id": "kyungdong-pe-tkd",
+    "type": "4year",
+    "university": "경동대학교",
+    "department": "체육학과(태권도특기자)",
+    "college": null,
+    "region": "경기",
+    "city": "양주시",
+    "establishment": "사립",
+    "website": "https://www.kduniv.ac.kr",
+    "admissionsUrl": "https://www.kduniv.ac.kr",
+    "tracks": [
+      "겨루기",
+      "격파"
+    ],
+    "careers": [
+      "태권도 지도자",
+      "생활체육 지도자",
+      "경호"
+    ],
+    "highlights": "독립 태권도학과는 아니며, 메트로폴캠퍼스 체육학과에서 태권도특기자전형으로 겨루기·격파 선수를 선발한다. 국제융합학부에 국제태권도 융합전공이 있다.",
+    "year": 2027,
+    "admissions": [
+      {
+        "round": "수시",
+        "name": "태권도특기자전형",
+        "category": "특기자",
+        "quota": 12,
+        "elements": {
+          "학생부": 30,
+          "실적": 70
+        },
+        "practical": "격파 지원자는 입상실적 대신 격파 실기고사 70%(2026.10.24)",
+        "requirements": "체육학과 지원자. 겨루기는 2024.3~2026.8 개인전 1~3위 입상 실적 반영",
+        "csatMinimum": "없음",
+        "competitionRate": null,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 수시모집요강 기준. 겨루기 8명(학생부 30+실적 70), 격파 4명(학생부 30+실기 70). 학생부는 교과 25%+출결 5%"
+      }
+    ],
+    "sources": [
+      "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/경동대학교(메트로폴)/경동대학교(메트로폴)_2027학년도_수시모집요강.pdf"
+    ],
+    "verified": true,
+    "lastChecked": "2026-11-25"
+  },
+  {
+    "id": "kornu-tkd",
+    "type": "4year",
+    "university": "나사렛대학교",
+    "department": "태권도학과",
+    "college": null,
+    "region": "충남",
+    "city": "천안시",
+    "establishment": "사립",
+    "website": "https://www.kornu.ac.kr",
+    "admissionsUrl": "https://ipsi.kornu.ac.kr",
+    "tracks": [
+      "품새",
+      "겨루기",
+      "시범"
+    ],
+    "careers": [
+      "태권도 지도자(사범)",
+      "태권도장 경영자",
+      "경호원",
+      "해외 태권도 사범",
+      "태권도 심판"
+    ],
+    "highlights": "기독교 정신 기반의 태권도 지도자 양성 학과로, 2026년 품새 국가대표를 배출했고 해외 태권도 교류·시범 활동이 활발함. 입학정원 65명(2027 기준, 정원외 포함).",
+    "year": 2027,
+    "admissions": [
+      {
+        "round": "수시",
+        "name": "일반학생전형(실기위주)",
+        "category": "실기위주",
+        "quota": 34,
+        "elements": {
+          "면접": 30,
+          "실기": 70
+        },
+        "practical": "공통: 기본발차기(앞차기·돌려차기·옆차기·뒤후려차기 각 3회) + 택1: 품새(고려 또는 자유품새 1분), 겨루기(미트겨루기 1분 + 겨루기 활용 옆차기 30초), 시범(시범발차기 또는 마샬아츠 연결 발차기 1분)",
+        "requirements": "고교 졸업(예정)자 또는 동등 학력자",
+        "csatMinimum": "없음",
+        "competitionRate": 8.4,
+        "gradeCut": 7.42,
+        "csatCut": null,
+        "notes": "경쟁률·내신 컷은 2026학년도 일반학생전형 결과(모집 25명, 충원 12명, 등록자 평균 5.53등급, 컷 7.42등급). 2027 모집인원 34명."
+      },
+      {
+        "round": "수시",
+        "name": "특기자인재전형",
+        "category": "특기자",
+        "quota": 20,
+        "elements": {
+          "학생부": 10,
+          "서류": 60,
+          "면접": 30
+        },
+        "practical": null,
+        "requirements": "세계태권도연맹·대한체육회·대한태권도협회·국기원·대한장애인태권도협회 발급 경기실적 보유자(인정기간 2025.1.1.~2026.8.31., 최고 실적 1개 산정: 1위 400점~16강 50점)",
+        "csatMinimum": "없음",
+        "competitionRate": null,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도부터 특기자인재 실기고사 삭제. 2026 결과는 요강 표 판독이 불확실하여 미기재."
+      },
+      {
+        "round": "수시",
+        "name": "창의융합인재전형",
+        "category": "실기위주",
+        "quota": 5,
+        "elements": {},
+        "practical": "일반학생전형과 동일한 실기 종목(기본발차기 + 품새/겨루기/시범 택1)",
+        "requirements": "고교 졸업(예정)자 또는 동등 학력자",
+        "csatMinimum": "없음",
+        "competitionRate": null,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027 요강상 실기위주 창의융합인재 5명. 반영비율은 요강 표에서 명확히 확인되지 않아 비움(일반학생과 같은 면접30+실기70으로 보이나 미확인)."
+      },
+      {
+        "round": "정시",
+        "name": "일반학생전형(다군, 실기위주)",
+        "category": "실기위주",
+        "quota": 5,
+        "elements": {
+          "면접": 30,
+          "실기": 70
+        },
+        "practical": "기본발차기 + 품새/겨루기/시범 중 택1(수시와 유사)",
+        "requirements": "고교 졸업(예정)자 또는 동등 학력자",
+        "csatMinimum": "없음",
+        "competitionRate": null,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 정시모집요강 기준 다군 5명, 수능 미반영(면접 30% + 실기 70%)."
+      }
+    ],
+    "sources": [
+      "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/나사렛대학교/나사렛대학교_2027학년도_수시모집요강.pdf",
+      "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/나사렛대학교/나사렛대학교_2027학년도_정시모집요강.pdf",
+      "https://www.dhnews.co.kr/news/view/1065599476663968"
+    ],
+    "verified": true,
+    "lastChecked": "2026-11-25"
+  },
+  {
+    "id": "baekseok-tkd",
+    "type": "4year",
+    "university": "백석대학교",
+    "department": "스포츠과학부 태권도전공",
+    "college": null,
+    "region": "충남",
+    "city": "천안시",
+    "establishment": "사립",
+    "website": "https://www.bu.ac.kr",
+    "admissionsUrl": "https://ipsi.bu.ac.kr",
+    "tracks": [
+      "시범",
+      "품새",
+      "겨루기",
+      "격파"
+    ],
+    "careers": [
+      "태권도 지도자",
+      "태권도 시범단",
+      "생활체육 지도자",
+      "체육교사"
+    ],
+    "highlights": "스포츠과학부 내 태권도전공(입학정원 60명)으로 시범·품새 중심 실기 전형을 운영하며, KTA 승인 백석대 총장배 전국태권도대회(격파·품새·겨루기)를 개최함.",
+    "year": 2027,
+    "admissions": [
+      {
+        "round": "수시",
+        "name": "일반실기전형",
+        "category": "실기위주",
+        "quota": 42,
+        "elements": {
+          "학생부": 40,
+          "실기": 60
+        },
+        "practical": "종목별 선발(품새 21명, 시범 21명). 공통 기본발차기(뻗어올리기·돌려차기·옆차기·뒤차기·뒤후려차기·돌개차기 각 발 2회). 시범: 특기발차기(뛰어앞차기, 540도 뒤후려차기) + 자유구성 1분. 품새: 필수 고려 + 자유품새 또는 금강·태백·평원·십진 중 택1",
+        "requirements": "고교 졸업(예정)자 또는 동등 학력자",
+        "csatMinimum": "없음",
+        "competitionRate": 16.69,
+        "gradeCut": 6.53,
+        "csatCut": null,
+        "notes": "경쟁률·컷은 2026학년도 품새 종목 결과(모집 13명, 경쟁률 16.69, 등록자 평균 5.55, 80%컷 6.53). 2026 시범: 13명·16.38·평균 5.74. 2027부터 일반실기에서 겨루기 종목 제외(특기자로 이동)."
+      },
+      {
+        "round": "수시",
+        "name": "체육특기자전형(태권도)",
+        "category": "특기자",
+        "quota": 14,
+        "elements": {
+          "학생부": 20,
+          "면접": 20,
+          "실기": 30,
+          "실적": 30
+        },
+        "practical": "시범 4명, 품새 4명, 겨루기 6명. 시범·품새는 일반실기와 유사한 기본·특기 발차기 및 품새 실기",
+        "requirements": "전국 규모 대회 입상자(대한체육회 산하·대한태권도협회·국기원 인정 대회)",
+        "csatMinimum": "없음",
+        "competitionRate": 9.5,
+        "gradeCut": 6.33,
+        "csatCut": null,
+        "notes": "2026학년도 체육특기자(태권도) 결과: 모집 6명, 경쟁률 9.5, 등록자 평균 5.68, 80%컷 6.33."
+      },
+      {
+        "round": "정시",
+        "name": "일반전형(가군, 실기위주)",
+        "category": "실기위주",
+        "quota": 4,
+        "elements": {
+          "수능": 30,
+          "실기": 70
+        },
+        "practical": "태권도 실기(2027.1.14. 실시)",
+        "requirements": "고교 졸업(예정)자 또는 동등 학력자",
+        "csatMinimum": "없음",
+        "competitionRate": null,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 정시모집요강 기준 가군 4명(수시 이월 시 증가 가능)."
+      }
+    ],
+    "sources": [
+      "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/백석대학교/백석대학교_2027학년도_수시모집요강.pdf",
+      "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/백석대학교/백석대학교_2027학년도_정시모집요강.pdf",
+      "https://www.twig24.com/news/local_govern/edulife_local/2026/05/18/20260518500201"
+    ],
+    "verified": true,
+    "lastChecked": "2026-11-25"
+  },
+  {
+    "id": "sunmoon-tkd",
+    "type": "4year",
+    "university": "선문대학교",
+    "department": "태권도학과",
+    "college": null,
+    "region": "충남",
+    "city": "아산시",
+    "establishment": "사립",
+    "website": "https://www.sunmoon.ac.kr",
+    "admissionsUrl": "https://ilove.sunmoon.ac.kr",
+    "tracks": [
+      "품새",
+      "겨루기",
+      "시범"
+    ],
+    "careers": [
+      "태권도 지도자",
+      "태권도 시범단원",
+      "경호",
+      "체육교사"
+    ],
+    "highlights": "세계태권도연맹 시범단원을 매년 다수 배출하는 시범 강세 학과로, 전국대학태권도대회에서 주요 종목 상위 입상 실적이 있음. 정시는 수시 미충원 이월 시에만 선발.",
+    "year": 2027,
+    "admissions": [
+      {
+        "round": "수시",
+        "name": "실기/실적위주 일반전형",
+        "category": "실기위주",
+        "quota": 35,
+        "elements": {
+          "학생부": 20,
+          "실기": 80
+        },
+        "practical": "세부전공 택1 — 품새: 기초(내려·돌려·옆·뒤후려차기) + 전문(고려 또는 자유품새); 겨루기: 기초 미트발차기 + 전문 미트겨루기; 시범: 기초 발차기 + 특기발차기(돌개차기, 뛰어 360도 뒤돌아후려차기 등 1분). 기초 400점 + 전문 400점",
+        "requirements": "고교 졸업(예정)자 또는 동등 학력자(검정고시·해외고 가능)",
+        "csatMinimum": "없음",
+        "competitionRate": 2.23,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "경쟁률은 2027 수시요강 내 2026학년도 입시결과(태권도학과 35명, 2.23:1) 판독값. 등급 미공개."
+      }
+    ],
+    "sources": [
+      "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/선문대학교/선문대학교_2027학년도_수시모집요강.pdf",
+      "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/선문대학교/선문대학교_2027학년도_정시모집요강.pdf",
+      "https://dhnews.co.kr/news/view/1065573606480341"
+    ],
+    "verified": true,
+    "lastChecked": "2026-11-25"
+  },
+  {
+    "id": "dankook-cheonan-tkd",
+    "type": "4year",
+    "university": "단국대학교(천안)",
+    "department": "국제스포츠학부 태권도전공",
+    "college": "스포츠과학대학",
+    "region": "충남",
+    "city": "천안시",
+    "establishment": "사립",
+    "website": "https://www.dankook.ac.kr",
+    "admissionsUrl": "https://ipsi.dankook.ac.kr",
+    "tracks": [
+      "겨루기",
+      "품새",
+      "격파"
+    ],
+    "careers": [
+      "태권도 선수",
+      "태권도 지도자",
+      "생활체육 지도자"
+    ],
+    "highlights": "선수 육성 중심의 전공으로 전원 수시 체육특기자전형으로만 선발함(겨루기·품새·격파 체급/종목별 모집).",
+    "year": 2027,
+    "admissions": [
+      {
+        "round": "수시",
+        "name": "체육특기자전형",
+        "category": "특기자",
+        "quota": 19,
+        "elements": {
+          "실적": 80,
+          "학생부": 20
+        },
+        "practical": null,
+        "requirements": "중앙경기단체 발급 경기실적증명서 제출 가능자(최근 3년 2024~2026 실적). 겨루기 6명(남 웰터·라이트·라이트헤비, 여 웰터·밴텀·헤비), 품새 6명(공인 남2·여2, 자유 남2), 격파 7명(남6·여1)",
+        "csatMinimum": "없음",
+        "competitionRate": null,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027 요강: 실적 80% + 교과 10% + 출결 10%(학생부 20으로 합산 표기). 정시 미선발. 경쟁률·등급 미확인."
+      }
+    ],
+    "sources": [
+      "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/단국대학교(천안)/단국대학교(천안)_2027학년도_수시모집요강.pdf",
+      "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/단국대학교(천안)/단국대학교(천안)_2027학년도_정시모집요강.pdf"
+    ],
+    "verified": true,
+    "lastChecked": "2026-11-25"
+  },
+  {
+    "id": "woosuk-tkd",
+    "type": "4year",
+    "university": "우석대학교",
+    "department": "태권도학과",
+    "college": null,
+    "region": "전북",
+    "city": "완주군",
+    "establishment": "사립",
+    "website": "https://ent.wsu.ac.kr/",
+    "admissionsUrl": "https://ent.wsu.ac.kr/",
+    "tracks": [
+      "겨루기",
+      "품새",
+      "시범"
+    ],
+    "careers": [
+      "태권도 지도자",
+      "태권도 선수",
+      "체육교사",
+      "태권도 시범·공연"
+    ],
+    "highlights": "전주캠퍼스 소재 교직 이수 가능 태권도학과로 겨루기·품새·시범 부문을 나누어 실기전형을 운영하며, 태권도 시범·공연 활동과 총장기 전국태권도대회 주관으로 알려져 있다.",
+    "year": 2027,
+    "admissions": [
+      {
+        "round": "수시",
+        "name": "학생부교과(교과면접전형)",
+        "category": "학생부교과",
+        "quota": 10,
+        "elements": {
+          "학생부": 70,
+          "면접": 30
+        },
+        "practical": null,
+        "requirements": null,
+        "csatMinimum": null,
+        "competitionRate": 5.5,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 수시 최종 경쟁률(진학사). 반영비율은 언론보도의 교과면접전형 공통 방식(1단계 교과100% 5배수, 2단계 1단계70%+면접30%) 기준"
+      },
+      {
+        "round": "수시",
+        "name": "실기위주(실기일반전형) - 겨루기",
+        "category": "실기위주",
+        "quota": 12,
+        "elements": {},
+        "practical": "겨루기",
+        "requirements": null,
+        "csatMinimum": null,
+        "competitionRate": 3.42,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 수시 최종 경쟁률(진학사). 학생부·실기 반영비율은 모집요강 미확인"
+      },
+      {
+        "round": "수시",
+        "name": "실기위주(실기일반전형) - 품새",
+        "category": "실기위주",
+        "quota": 20,
+        "elements": {},
+        "practical": "품새",
+        "requirements": null,
+        "csatMinimum": null,
+        "competitionRate": 2.9,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 수시 최종 경쟁률(진학사). 반영비율 미확인"
+      },
+      {
+        "round": "수시",
+        "name": "실기위주(실기일반전형) - 시범",
+        "category": "실기위주",
+        "quota": 20,
+        "elements": {},
+        "practical": "시범",
+        "requirements": null,
+        "csatMinimum": null,
+        "competitionRate": 4.05,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 수시 최종 경쟁률(진학사). 반영비율 미확인"
+      },
+      {
+        "round": "수시",
+        "name": "실기위주(특기자전형) - 겨루기",
+        "category": "특기자",
+        "quota": 8,
+        "elements": {},
+        "practical": null,
+        "requirements": "태권도 겨루기 경기실적 보유자(세부 기준 모집요강 확인)",
+        "csatMinimum": null,
+        "competitionRate": 1.25,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 수시 최종 경쟁률(진학사). 반영비율 미확인"
+      },
+      {
+        "round": "수시",
+        "name": "실기위주(기회균형전형·정원외)",
+        "category": "실기위주",
+        "quota": 3,
+        "elements": {},
+        "practical": null,
+        "requirements": "기회균형 대상자",
+        "csatMinimum": null,
+        "competitionRate": 1.33,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 수시 최종 경쟁률(진학사)"
+      },
+      {
+        "round": "수시",
+        "name": "실기위주(농어촌학생전형·정원외)",
+        "category": "실기위주",
+        "quota": 3,
+        "elements": {},
+        "practical": null,
+        "requirements": "농어촌학생 자격 해당자",
+        "csatMinimum": null,
+        "competitionRate": 1.67,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 수시 최종 경쟁률(진학사)"
+      }
+    ],
+    "sources": [
+      "https://addon.jinhakapply.com/RatioV1/RatioH/Ratio11150621.html",
+      "https://mobile.newsis.com/view/NISX20260805_0003737379",
+      "https://ent.wsu.ac.kr/site/ent/popup/2027susi.pdf"
+    ],
+    "verified": true,
+    "lastChecked": "2026-11-25"
+  },
+  {
+    "id": "jeonju-tkd",
+    "type": "4year",
+    "university": "전주대학교",
+    "department": "태권도학과",
+    "college": "문화융합대학",
+    "region": "전북",
+    "city": "전주시",
+    "establishment": "사립",
+    "website": "https://iphak.jj.ac.kr/iphak/exploration/cultural/taekwondo.do",
+    "admissionsUrl": "https://iphak.jj.ac.kr/",
+    "tracks": [
+      "겨루기",
+      "품새",
+      "시범"
+    ],
+    "careers": [
+      "태권도 실업팀 선수",
+      "체육교사",
+      "태권도 도장 관장·사범",
+      "스포츠 강사",
+      "태권도 공연팀",
+      "체육행정·경영"
+    ],
+    "highlights": "2006년 체육학부 태권도전공으로 출발한 학과로 실기와 이론을 병행하고 웰니스 개념을 기반으로 하며, 졸업 전 태권도 4단 이상 승단과 체육 자격증 취득을 목표로 한다.",
+    "year": 2026,
+    "admissions": [
+      {
+        "round": "수시",
+        "name": "실기/실적(일반학생전형)",
+        "category": "실기위주",
+        "quota": 28,
+        "elements": {},
+        "practical": null,
+        "requirements": null,
+        "csatMinimum": null,
+        "competitionRate": 7.07,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2026학년도 수시 경쟁률(유웨이). 2027 실기요강은 매년 8월 학과 입시설명회에서 안내. 반영비율 미확인"
+      },
+      {
+        "round": "수시",
+        "name": "실기/실적(특기자전형) - 겨루기",
+        "category": "특기자",
+        "quota": 10,
+        "elements": {},
+        "practical": null,
+        "requirements": "태권도 겨루기 경기실적 보유자(세부 기준 모집요강 확인)",
+        "csatMinimum": null,
+        "competitionRate": 1.4,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2026학년도 수시 경쟁률(유웨이)"
+      },
+      {
+        "round": "수시",
+        "name": "실기/실적(특기자전형) - 품새·시범",
+        "category": "특기자",
+        "quota": 2,
+        "elements": {},
+        "practical": null,
+        "requirements": "태권도 품새·시범 경기실적 보유자",
+        "csatMinimum": null,
+        "competitionRate": 6,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2026학년도 수시 경쟁률(유웨이)"
+      }
+    ],
+    "sources": [
+      "https://iphak.jj.ac.kr/iphak/exploration/cultural/taekwondo.do",
+      "https://ratio.uwayapply.com/Sl5KOi9XYWAvSmYlJjomSi1mVGY=",
+      "https://jj.ac.kr/iphak/early/faq.do"
+    ],
+    "verified": true,
+    "lastChecked": "2026-11-25"
+  },
+  {
+    "id": "chosun-tkd",
+    "type": "4year",
+    "university": "조선대학교",
+    "department": "태권도학과",
+    "college": "체육대학",
+    "region": "광주",
+    "city": "광주광역시 동구",
+    "establishment": "사립",
+    "website": "https://cutkd.chosun.ac.kr",
+    "admissionsUrl": "https://ipsi.chosun.ac.kr",
+    "tracks": [
+      "겨루기",
+      "품새",
+      "시범"
+    ],
+    "careers": [
+      "태권도 지도자",
+      "태권도 선수",
+      "체육교사",
+      "경호"
+    ],
+    "highlights": "광주 지역 대표 사립대 체육대학 소속 태권도학과로, 수시 실기전형에서 품새·시범, 특기자전형에서 겨루기를 분리 선발한다.",
+    "year": 2027,
+    "admissions": [
+      {
+        "round": "수시",
+        "name": "실기/실적(실기전형) - 품새",
+        "category": "실기위주",
+        "quota": 24,
+        "elements": {},
+        "practical": "품새",
+        "requirements": null,
+        "csatMinimum": null,
+        "competitionRate": 2.88,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 수시 최종 경쟁률(진학사 경쟁률 서비스). 전형요소 반영비율은 모집요강 미확인"
+      },
+      {
+        "round": "수시",
+        "name": "실기/실적(실기전형) - 시범",
+        "category": "실기위주",
+        "quota": 23,
+        "elements": {},
+        "practical": "시범",
+        "requirements": null,
+        "csatMinimum": null,
+        "competitionRate": null,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 모집인원 23명(진학사 경쟁률 페이지). 경쟁률·반영비율 미확인"
+      },
+      {
+        "round": "수시",
+        "name": "실기/실적(특기자전형-체능) - 겨루기",
+        "category": "특기자",
+        "quota": 12,
+        "elements": {},
+        "practical": "겨루기(경기실적 중심으로 추정)",
+        "requirements": "체육특기자 자격(세부 기준 미확인)",
+        "csatMinimum": null,
+        "competitionRate": 1.08,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 수시 최종 경쟁률 13명 지원/12명 모집. 반영비율 미확인"
+      },
+      {
+        "round": "수시",
+        "name": "학생부종합(농어촌학생전형)(정원 외)",
+        "category": "학생부종합",
+        "quota": 3,
+        "elements": {},
+        "practical": null,
+        "requirements": "농어촌학생 자격",
+        "csatMinimum": null,
+        "competitionRate": 2,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 경쟁률. 이 밖에 학생부교과(일반·지역인재) 등은 '자유전공(인문·예체능)' 묶음으로만 모집(일반 9명 6.22:1, 지역인재 18명 6.11:1, 묶음 전체 수치)"
+      }
+    ],
+    "sources": [
+      "https://addon.jinhakapply.com/RatioV1/RatioH/Ratio11300581.html",
+      "https://cutkd.chosun.ac.kr/sites/cutkd/down/2025_%ED%83%9C%EA%B6%8C%EB%8F%84%ED%95%99%EA%B3%BC.pdf"
+    ],
+    "verified": false,
+    "lastChecked": "2026-11-25"
+  },
+  {
+    "id": "honam-tkd",
+    "type": "4year",
+    "university": "호남대학교",
+    "department": "스포츠과학부 태권도전공(태권도학과)",
+    "college": "창의문화스포츠대학",
+    "region": "광주",
+    "city": "광주광역시 광산구",
+    "establishment": "사립",
+    "website": "https://www.honam.ac.kr",
+    "admissionsUrl": "https://ipsi.honam.ac.kr",
+    "tracks": [
+      "품새",
+      "겨루기"
+    ],
+    "careers": [
+      "태권도 지도자",
+      "태권도 선수",
+      "생활체육지도자"
+    ],
+    "highlights": "2027학년도부터 학부 단위 모집으로 바뀌어 스포츠과학부(축구/태권도/스포츠레저)로 선발하며, 학과는 전국대학태권도대회 품새 부문에서 입상 실적이 있다.",
+    "year": 2027,
+    "admissions": [
+      {
+        "round": "수시",
+        "name": "학생부교과(일반학생A전형)_면접중심",
+        "category": "학생부교과",
+        "quota": 80,
+        "elements": {},
+        "practical": null,
+        "requirements": null,
+        "csatMinimum": null,
+        "competitionRate": 2.6,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 최종 경쟁률. 스포츠과학부(축구/태권도/스포츠레저) 묶음 전체 수치이며 태권도 단독 수치 아님. 학생부+면접 비율 미확인"
+      },
+      {
+        "round": "수시",
+        "name": "학생부교과(일반고전형)_교과중심",
+        "category": "학생부교과",
+        "quota": 30,
+        "elements": {},
+        "practical": null,
+        "requirements": "일반고 졸업(예정)자",
+        "csatMinimum": null,
+        "competitionRate": 3.93,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 스포츠과학부 묶음 전체 수치"
+      },
+      {
+        "round": "수시",
+        "name": "학생부교과(지역인재전형)_교과중심",
+        "category": "학생부교과",
+        "quota": 10,
+        "elements": {},
+        "practical": null,
+        "requirements": "광주·전남 지역 고교 졸업(예정)자",
+        "csatMinimum": null,
+        "competitionRate": 3.7,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 스포츠과학부 묶음 전체 수치. 별도 실기전형은 경쟁률 페이지에서 확인되지 않음"
+      }
+    ],
+    "sources": [
+      "https://addon.jinhakapply.com/RatioV1/RatioH/Ratio11690691.html",
+      "https://www.wikitree.co.kr/articles/1174528",
+      "https://www.wikitree.co.kr/articles/1157017"
+    ],
+    "verified": false,
+    "lastChecked": "2026-11-25"
+  },
+  {
+    "id": "gwangju-tkd",
+    "type": "4year",
+    "university": "광주대학교",
+    "department": "태권도학과",
+    "college": "문화산업대학",
+    "region": "광주",
+    "city": "광주광역시 남구",
+    "establishment": "사립",
+    "website": "https://www.gwangju.ac.kr",
+    "admissionsUrl": "https://www.gwangju.ac.kr",
+    "tracks": [
+      "겨루기",
+      "품새"
+    ],
+    "careers": [
+      "태권도 지도자",
+      "태권도 선수",
+      "생활체육지도자"
+    ],
+    "highlights": "2026학년도에 신설된 태권도학과로, 태권도부를 운영하며 스위스태권도협회 등과 국제 교류를 추진하고 있다.",
+    "year": 2027,
+    "admissions": [
+      {
+        "round": "수시",
+        "name": "실기/실적(실기일반)",
+        "category": "실기위주",
+        "quota": null,
+        "elements": {
+          "학생부": 30,
+          "실기": 70
+        },
+        "practical": null,
+        "requirements": null,
+        "csatMinimum": null,
+        "competitionRate": 1.24,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "반영비율(학생부 30·실기 70)은 2027학년도 언론보도 기준. 경쟁률 1.24:1(25명 모집 31명 지원)은 2026학년도 신설 첫해 수치이며, 표 해석상 실기일반 전형으로 추정. 2027 모집인원 미확인"
+      }
+    ],
+    "sources": [
+      "https://news.mtn.co.kr/news-detail/2026081910030113009",
+      "http://ratio.uwayapply.com/Sl5KOi9yVzhOckpmJSY6JkotZlRm",
+      "https://www.dhnews.co.kr/news/view/1065588547829015"
+    ],
+    "verified": false,
+    "lastChecked": "2026-11-25"
+  },
+  {
+    "id": "dongshin-tkd",
+    "type": "4year",
+    "university": "동신대학교",
+    "department": "태권도학과",
+    "college": null,
+    "region": "전남",
+    "city": "나주시",
+    "establishment": "사립",
+    "website": "https://cess.dsu.ac.kr/taekwondo/",
+    "admissionsUrl": "https://ipsi.dsu.ac.kr/ipsi/",
+    "tracks": [
+      "품새",
+      "겨루기",
+      "시범",
+      "지도자"
+    ],
+    "careers": [
+      "태권도 지도자",
+      "태권도장 경영",
+      "해외 태권도 지도자"
+    ],
+    "highlights": "태권도 전문지도자 양성을 목표로 도장 경영·지도법 교육과 창업 지원, 해외 현장실습(중국 등 해외 시범 활동)을 운영한다.",
+    "year": 2026,
+    "admissions": [
+      {
+        "round": "수시",
+        "name": "실기전형",
+        "category": "실기위주",
+        "quota": 26,
+        "elements": {},
+        "practical": "공통: 기본발차기(앞차기, 앞돌려차기, 옆차기, 뒤후려차기 좌우 각 3회) / 선택 택1: 품새(고려, 90초 이내), 겨루기(미트 자유발차기 30초), 시범(자유종합격파, 개인특기 3가지 이내)",
+        "requirements": null,
+        "csatMinimum": null,
+        "competitionRate": 2.1,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2026학년도 수시 기준(모집 26명, 지원 54명). 반영비율은 확인하지 못함. 2027학년도 전형계획(안)에도 동일한 실기 구조(기본발차기 + 품새·겨루기·시범 택1)가 있음. 2027 모집요강 PDF는 이미지 형식이라 세부 확인 불가."
+      },
+      {
+        "round": "수시",
+        "name": "실기위주 기타 전형(전형명 미확인)",
+        "category": "실기위주",
+        "quota": 4,
+        "elements": {},
+        "practical": null,
+        "requirements": null,
+        "csatMinimum": null,
+        "competitionRate": 1.8,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2026학년도 수시 경쟁률 페이지 기준(모집 4명, 지원 7명). 페이지 인코딩이 깨져 있어 전형명을 확인하지 못함."
+      }
+    ],
+    "sources": [
+      "https://ratio.uwayapply.com/Sl5KOlclfCZyV2FWSmYlJjomSi1mVGY=",
+      "https://ipsi.dsu.ac.kr/ipsi/?CgCode=S&idx=10936&mode=view&pCode=notice",
+      "https://viewapp.dsu.ac.kr/getDownload/p60F7TRC5c7",
+      "https://cess.dsu.ac.kr/taekwondo/index.php?pCode=notice&mode=view&idx=220",
+      "https://www.dhnews.co.kr/news/view/179523523604219"
+    ],
+    "verified": false,
+    "lastChecked": "2026-11-25"
+  },
+  {
+    "id": "sehan-tkd",
+    "type": "4year",
+    "university": "세한대학교",
+    "department": "태권도학과",
+    "college": null,
+    "region": "전남",
+    "city": "영암군",
+    "establishment": "사립",
+    "website": "https://www.sehan.ac.kr",
+    "admissionsUrl": "https://apply.sehan.ac.kr/apply/",
+    "tracks": [
+      "겨루기",
+      "품새",
+      "시범",
+      "지도자"
+    ],
+    "careers": [
+      "태권도 지도자",
+      "실업팀 선수",
+      "해외 태권도 지도자"
+    ],
+    "highlights": "전남 지역 대표 태권도 전공 학과로, 겨루기 선수 육성(실업팀 입단 등)과 시범단 활동, 해외 지도자 파견에 힘쓴다.",
+    "year": 2027,
+    "admissions": [
+      {
+        "round": "수시",
+        "name": "실기·실적 일반학생전형",
+        "category": "실기위주",
+        "quota": null,
+        "elements": {},
+        "practical": null,
+        "requirements": "국기원 단(품)증 제출(2016학년도 기준 안내, 현행 여부 미확인)",
+        "csatMinimum": "없음",
+        "competitionRate": null,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 실기·실적 일반학생전형은 대학 전체 115명이며 수능최저는 없음(2차 정리 사이트 기준). 태권도학과의 모집인원·반영비율은 확인하지 못함(모집요강 PDF가 이미지 형식). 과거 2016학년도에는 학생부 30% + 실적/단증 70%였음."
+      }
+    ],
+    "sources": [
+      "https://www.make2t.kr/2026/10/sehan-university-admission-2027.html",
+      "https://apply.sehan.ac.kr/apply/resource/data/2027_sehan_susi_web_1.pdf",
+      "https://www.dhnews.co.kr/news/view/179514228155742",
+      "https://test3.sehan.ac.kr/?keyword=&page_id=389&pageid=4&target="
+    ],
+    "verified": false,
+    "lastChecked": "2026-11-25"
+  },
+  {
+    "id": "keimyung-tkd",
+    "type": "4year",
+    "university": "계명대학교",
+    "department": "태권도학과",
+    "college": "체육대학",
+    "region": "대구",
+    "city": "대구광역시 달서구(성서캠퍼스)",
+    "establishment": "사립",
+    "website": "https://tkd.kmu.ac.kr/",
+    "admissionsUrl": "https://www.gokmu.ac.kr/",
+    "tracks": [
+      "겨루기",
+      "품새",
+      "시범"
+    ],
+    "careers": [
+      "태권도 지도자",
+      "태권도 선수",
+      "시범단",
+      "체육 지도자"
+    ],
+    "highlights": "체육대학 소속 태권도학과로 품새단·시범단·겨루기 선수를 운영하며, 수시 예체능(실기)전형과 체육특기자전형(겨루기/품새·시범·겨루기)으로 선발한다.",
+    "year": 2027,
+    "admissions": [
+      {
+        "round": "수시",
+        "name": "실기/실적(예체능전형)",
+        "category": "실기위주",
+        "quota": 41,
+        "elements": {
+          "학생부": 20,
+          "실기": 80
+        },
+        "practical": "택1(품새 '고려' 1회 시연 / 시범: 체공 3단계 격파(남 돌려차기·여 앞차기)+수직 회전 격파(남 540° 뒤후려차기·여 360° 돌개차기) / 겨루기: 미트 자유 겨루기 60초) 70% + 기본발차기(앞·돌려·옆·뒤·뒤후려차기) 30%",
+        "requirements": "고교 졸업(예정)자 또는 동등 학력자",
+        "csatMinimum": "없음",
+        "competitionRate": 7.59,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027 모집요강 기준. 학생부는 교과 80%+출결 20%. 실기 성적이 배점의 40% 미만이면 불합격. 2026 대비 실기 반영비율 변경(기본발차기 50%→30%, 택1 종목 50%→70%). 경쟁률은 2027 수시 최종(41명 모집, 311명 지원, 유웨이 경쟁률 서비스)."
+      },
+      {
+        "round": "수시",
+        "name": "실기/실적(체육특기자전형) A군 겨루기",
+        "category": "특기자",
+        "quota": 8,
+        "elements": {
+          "학생부": 30,
+          "실적": 70
+        },
+        "practical": null,
+        "requirements": "고교 재학 중 국가대표 선발 또는 본교 인정 전국대회(대통령기, 문체부장관기, 협회장기, 전국체전 등) 3위 이내 입상자(개인 실적만 인정)",
+        "csatMinimum": "없음",
+        "competitionRate": 1.75,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027 모집요강 기준. 실기고사 없음, 서류(실적) 평가. A군 중 특기장학생 선발. 입학 후 전과 불가. 경쟁률은 2027 수시 최종(8명 모집, 14명 지원)."
+      },
+      {
+        "round": "수시",
+        "name": "실기/실적(체육특기자전형) B군 품새·시범·겨루기",
+        "category": "특기자",
+        "quota": 6,
+        "elements": {
+          "학생부": 30,
+          "실적": 70
+        },
+        "practical": null,
+        "requirements": "겨루기·품새: 국가대표 또는 대한체육회 가맹단체 전국대회 8위 이내, 시·도 태권도협회 대회 3위 이내 입상자 / 시범: 국가대표 시범단원 또는 전국대회·세계태권도한마당 격파 부문 8위 이내(개인 실적)",
+        "csatMinimum": "없음",
+        "competitionRate": 4.67,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027 모집요강 기준. 실기고사 없음, 서류(실적) 평가. 입학 후 전과 불가. 경쟁률은 2027 수시 최종(6명 모집, 28명 지원)."
+      },
+      {
+        "round": "정시",
+        "name": "실기/실적(예체능전형)",
+        "category": "실기위주",
+        "quota": 5,
+        "elements": {
+          "수능": 20,
+          "실기": 80
+        },
+        "practical": null,
+        "requirements": null,
+        "csatMinimum": "없음",
+        "competitionRate": null,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027 수시모집요강의 모집인원표 기준(정시 5명, 수능 20%+실기 80%). 수시 미충원 인원은 정시로 이월될 수 있음. 정시 실기 종목은 정시모집요강 확인 필요."
+      }
+    ],
+    "sources": [
+      "https://www.gokmu.ac.kr/guide/paper.htm?ctg_cd=susi",
+      "https://ratio.uwayapply.com/Sl5KOk05SmYlJjomSjdmVGY=",
+      "https://ratio.uwayapply.com/Sl5KOk05SmYlJjomSi1mVGY=",
+      "https://tkd.kmu.ac.kr/"
+    ],
+    "verified": true,
+    "lastChecked": "2026-11-25"
+  },
+  {
+    "id": "kyungil-tkd",
+    "type": "4year",
+    "university": "경일대학교",
+    "department": "태권도학과",
+    "college": "스포츠대학",
+    "region": "경북",
+    "city": "경산시",
+    "establishment": "사립",
+    "website": "http://tkd.kiu.ac.kr/",
+    "admissionsUrl": "https://ibsi.kiu.ac.kr/",
+    "tracks": [
+      "겨루기",
+      "시범",
+      "품새",
+      "지도자",
+      "행정"
+    ],
+    "careers": [
+      "태권도 지도자",
+      "심판",
+      "협회 직원",
+      "공연 전문가",
+      "실업팀 선수",
+      "경찰",
+      "체육교사"
+    ],
+    "highlights": "2022년 신설돼 2024년 독립 학과로 승격한 신생 학과로, 학생선수(겨루기·시범·품새)와 일반학생(예비지도자·예비행정가)이 함께 공부하며 운동부 비용을 학교가 지원한다.",
+    "year": 2027,
+    "admissions": [
+      {
+        "round": "수시",
+        "name": "면접전형",
+        "category": "학생부교과",
+        "quota": 13,
+        "elements": {
+          "학생부": 70,
+          "면접": 30
+        },
+        "practical": null,
+        "requirements": "고교 졸업(예정)자 또는 동등 학력자",
+        "csatMinimum": "없음",
+        "competitionRate": null,
+        "gradeCut": 4.89,
+        "csatCut": null,
+        "notes": "2027 모집요강 기준(학생부 교과 63%+출결 7%, 다대다 블라인드 면접 30%). 등급은 2026 수시 면접전형 최종등록자 평균(85% 컷 5.81)."
+      },
+      {
+        "round": "수시",
+        "name": "실기전형",
+        "category": "실기위주",
+        "quota": 13,
+        "elements": {
+          "학생부": 30,
+          "실기": 70
+        },
+        "practical": "택1: 겨루기(미트겨루기 1분 1회전) / 격파(공통격파: 남 540° 돌려차기 3단계·여 540° 뛰어 뒤후려차기, 특기격파, 기본발차기 5종 허공 시연) / 품새(고려+태극1장~평원 중 선택 품새 1개)",
+        "requirements": "고교 졸업(예정)자 또는 동등 학력자",
+        "csatMinimum": "없음",
+        "competitionRate": null,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027 모집요강 기준(학생부 교과 27%+출결 3%, 실기 70%). 실기고사 2026.9.29. 경쟁률은 확인하지 못함."
+      },
+      {
+        "round": "수시",
+        "name": "경기실적전형",
+        "category": "특기자",
+        "quota": 9,
+        "elements": {
+          "학생부": 20,
+          "실적": 80
+        },
+        "practical": null,
+        "requirements": "국제/전국/시도 규모 대회 수상 경력자이면서 태권도 1단 또는 1품 이상",
+        "csatMinimum": "없음",
+        "competitionRate": null,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027 모집요강 기준(학생부 교과 18%+출결 2%, 경기실적 80%). 경쟁률은 확인하지 못함."
+      }
+    ],
+    "sources": [
+      "https://ibsi.kiu.ac.kr/admission/sub.htm?nav_code=ips1556254569",
+      "http://tkd.kiu.ac.kr/HOME/tkd/intro_dept.htm",
+      "https://kbmaeil.com/article/20260905500140"
+    ],
+    "verified": true,
+    "lastChecked": "2026-11-25"
+  },
+  {
+    "id": "dongguk-wise-elite-sports-tkd",
+    "type": "4year",
+    "university": "동국대학교(WISE캠퍼스)",
+    "department": "엘리트스포츠전공(태권도)",
+    "college": null,
+    "region": "경북",
+    "city": "경주시",
+    "establishment": "사립",
+    "website": "https://sports.dongguk.ac.kr/",
+    "admissionsUrl": null,
+    "tracks": [
+      "겨루기"
+    ],
+    "careers": [
+      "태권도 선수",
+      "태권도 지도자"
+    ],
+    "highlights": "태권도학과가 아니라 엘리트 선수를 키우는 엘리트스포츠전공의 태권도 종목으로, 체육특기자전형으로만 선발한다.",
+    "year": 2027,
+    "admissions": [
+      {
+        "round": "수시",
+        "name": "특기자(체육특기자)전형",
+        "category": "특기자",
+        "quota": null,
+        "elements": {},
+        "practical": null,
+        "requirements": null,
+        "csatMinimum": null,
+        "competitionRate": null,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027 수시 진학사 경쟁률표 기준. 유도·태권도·소프트테니스·수영·레슬링(자유형)이 합쳐서 8명을 모집했고, 이 가운데 태권도 지원자는 2명이었다(통합 경쟁률 2.50:1). 태권도만의 모집인원과 전형요소는 확인하지 못함."
+      }
+    ],
+    "sources": [
+      "https://addon.jinhakapply.com/RatioV1/RatioH/Ratio10540761.html"
+    ],
+    "verified": false,
+    "lastChecked": "2026-11-25"
+  },
+  {
+    "id": "donga-tkd",
+    "type": "4year",
+    "university": "동아대학교",
+    "department": "태권도학과",
+    "college": "예술체육대학",
+    "region": "부산",
+    "city": "부산광역시 사하구",
+    "establishment": "사립",
+    "website": "https://www.donga.ac.kr",
+    "admissionsUrl": "https://ent.donga.ac.kr",
+    "tracks": [
+      "겨루기",
+      "품새",
+      "시범"
+    ],
+    "careers": [
+      "태권도 지도자",
+      "태권도 선수",
+      "생활체육지도자"
+    ],
+    "highlights": "부산 지역 대표 태권도학과로 입학정원 60명 전원을 수시에서 선발한다. 겨루기·품새·시범 분야 실기와 경기실적·단(품)증을 함께 평가하는 예체능우수자전형이 중심이다.",
+    "year": 2027,
+    "admissions": [
+      {
+        "round": "수시",
+        "name": "예체능우수자전형",
+        "category": "실기위주",
+        "quota": 40,
+        "elements": {
+          "학생부": 30,
+          "실기": 40,
+          "실적": 30
+        },
+        "practical": "기본발차기(돌려차기·옆차기·뒤후려차기, 100점) + 겨루기(타겟·대미트)/품새(고려)/시범(기술발차기) 중 택1(300점), 총 400점",
+        "requirements": "대한태권도협회·17개 시도태권도협회 경기·경연실적 또는 세계태권도한마당·시범경연대회 실적 또는 단(품)증 소지자, 검정고시 지원 불가",
+        "csatMinimum": "없음",
+        "competitionRate": null,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 수시모집요강 기준. 반영비율은 실기 40%, 교과 25%, 경기실적·단(품)증 30%, 출석 5%이며 학생부 30에는 교과와 출석이 합쳐져 있다. 겨루기·품새·시범을 통합해 40명을 모집한다."
+      },
+      {
+        "round": "수시",
+        "name": "체육특기자전형",
+        "category": "특기자",
+        "quota": 14,
+        "elements": {
+          "실적": 70,
+          "학생부": 30
+        },
+        "practical": null,
+        "requirements": "대한체육회 등록선수로서 2024.3.1. 이후 전국규모 태권도대회 실적 보유자(특기자 6명, 준특기자 8명)",
+        "csatMinimum": "없음",
+        "competitionRate": null,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 수시모집요강 기준. 경기실적 70%, 교과 20%, 출석 10%이다."
+      },
+      {
+        "round": "수시",
+        "name": "잠재능력우수자전형",
+        "category": "학생부종합",
+        "quota": 6,
+        "elements": {
+          "서류": 60,
+          "면접": 40
+        },
+        "practical": null,
+        "requirements": null,
+        "csatMinimum": "없음",
+        "competitionRate": null,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 수시모집요강 모집인원표 기준. 1단계는 서류 100%로 5배수를 뽑고, 2단계는 1단계 성적 60%와 면접 40%를 합산한다. 모집인원 6명은 표의 열 위치로 판단했다."
+      }
+    ],
+    "sources": [
+      "https://ent.donga.ac.kr/upload/BBS0021/20260612170122EBWP9U.PDF"
+    ],
+    "verified": true,
+    "lastChecked": "2026-11-25"
+  },
+  {
+    "id": "kosin-tkd",
+    "type": "4year",
+    "university": "고신대학교",
+    "department": "태권도학과",
+    "college": "창의융합대학",
+    "region": "부산",
+    "city": "부산광역시 영도구",
+    "establishment": "사립",
+    "website": "https://www.kosin.ac.kr",
+    "admissionsUrl": "https://www.kosin.ac.kr/dream/",
+    "tracks": [
+      "겨루기",
+      "품새",
+      "시범"
+    ],
+    "careers": [
+      "태권도 지도자",
+      "태권도 시범단",
+      "태권도 선교사"
+    ],
+    "highlights": "기존 태권도선교학과가 2025년부터 태권도학과로 바뀌어 태권도 국제화와 산업화를 내세운다. 수시 실기우수자전형에서 실기 100%로 선발한다.",
+    "year": 2027,
+    "admissions": [
+      {
+        "round": "수시",
+        "name": "실기우수자전형",
+        "category": "실기위주",
+        "quota": 30,
+        "elements": {
+          "실기": 100
+        },
+        "practical": "겨루기(미트 겨루기 등)/품새(고려 지정 + 금강·태백 중 1 추첨)/시범(주특기 발차기 2가지, 고려 품새) 중 택1(80%) + 기본발차기(돌려차기·옆차기·뒤차기·뒤후려차기 좌우 2회, 20%)",
+        "requirements": null,
+        "csatMinimum": "없음",
+        "competitionRate": 3.17,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "모집인원과 반영비율은 2027학년도 대입전형 시행계획 기준이다. 경쟁률은 2026학년도 수시 실기우수자전형(30명 모집, 95명 지원) 결과이다."
+      },
+      {
+        "round": "정시",
+        "name": "일반전형(다군, 실기위주)",
+        "category": "실기위주",
+        "quota": null,
+        "elements": {
+          "실기": 100
+        },
+        "practical": "수시와 같은 실기(겨루기/품새/시범 중 택1 80% + 기본발차기 20%)",
+        "requirements": null,
+        "csatMinimum": "없음",
+        "competitionRate": null,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 정시모집요강 기준. 수시에서 남은 인원만 이월해 모집하고, 실기평가는 2027.1.25.에 실시한다."
+      }
+    ],
+    "sources": [
+      "https://www.kosin.ac.kr/dream/?pCode=MN7000055&mode=view&idx=1606",
+      "https://www.kosin.ac.kr/dream/?pCode=MN7000055&mode=view&idx=3019",
+      "https://www.kosin.ac.kr/dream/?pCode=MN7000027&mode=view&idx=2346",
+      "https://www.metroseoul.co.kr/article/20240628500119"
+    ],
+    "verified": true,
+    "lastChecked": "2026-11-25"
+  },
+  {
+    "id": "youngsan-tkd",
+    "type": "4year",
+    "university": "영산대학교",
+    "department": "태권도학과",
+    "college": null,
+    "region": "경남",
+    "city": "양산시",
+    "establishment": "사립",
+    "website": "https://tkd.ysu.ac.kr",
+    "admissionsUrl": "https://ipsi.ysu.ac.kr",
+    "tracks": [
+      "겨루기",
+      "품새",
+      "시범",
+      "지도자"
+    ],
+    "careers": [
+      "경기지도자",
+      "생활체육지도자",
+      "태권도 사범"
+    ],
+    "highlights": "양산캠퍼스에 있는 학과로 '글로벌 리더 지도자를 양성하는 태권도학과'를 내세우며 시범단과 품새단을 운영한다. 수시에서는 실기고사 없이 면접전형 위주로 선발한다.",
+    "year": 2027,
+    "admissions": [
+      {
+        "round": "수시",
+        "name": "면접전형",
+        "category": "학생부교과",
+        "quota": 32,
+        "elements": {
+          "학생부": 70,
+          "면접": 30
+        },
+        "practical": null,
+        "requirements": null,
+        "csatMinimum": "없음",
+        "competitionRate": 1.06,
+        "gradeCut": 3.35,
+        "csatCut": null,
+        "notes": "모집인원 32명과 경쟁률 1.06은 2027학년도 수시 경쟁률(진학사)이다. 등급컷 3.35는 2026학년도 70%컷(평균 2.66, 경쟁률 1.75)이다. 반영비율은 대학 FAQ의 일반 안내(교과 70+면접 30 또는 60+40)로 추정한 값이라 확인이 필요하다."
+      },
+      {
+        "round": "수시",
+        "name": "교과전형",
+        "category": "학생부교과",
+        "quota": 2,
+        "elements": {
+          "학생부": 100
+        },
+        "practical": null,
+        "requirements": null,
+        "csatMinimum": "없음",
+        "competitionRate": 7.5,
+        "gradeCut": 3.01,
+        "csatCut": null,
+        "notes": "모집인원과 경쟁률은 2027학년도 수시(진학사) 기준이다. 등급컷 3.01은 2026학년도 70%컷(평균 2.27, 경쟁률 4.00)이다. 교과 100%는 대학 FAQ 기준이다."
+      }
+    ],
+    "sources": [
+      "https://addon.jinhakapply.com/RatioV1/RatioH/Ratio30100311.html",
+      "https://ipsi.ysu.ac.kr/ipsi/CMS/Board/Board.do?mCode=MN023&mode=view&mgr_seq=399&board_seq=641508",
+      "https://ipsi.ysu.ac.kr/ipsi/CMS/Board/Board.do?mCode=MN026",
+      "https://tkd.ysu.ac.kr"
+    ],
+    "verified": false,
+    "lastChecked": "2026-11-25"
+  },
+  {
+    "id": "dongeui-tkd",
+    "type": "4year",
+    "university": "동의대학교",
+    "department": "태권도학과",
+    "college": "예술디자인체육대학",
+    "region": "부산",
+    "city": "부산광역시 부산진구",
+    "establishment": "사립",
+    "website": "https://tkd.deu.ac.kr",
+    "admissionsUrl": "https://ipsi.deu.ac.kr",
+    "tracks": [
+      "겨루기",
+      "품새",
+      "시범"
+    ],
+    "careers": [
+      "생활체육지도자",
+      "태권도 지도자",
+      "태권도 선수"
+    ],
+    "highlights": "입학정원 35명이며 품새선수단·시범단·겨루기선수단을 운영한다. 현장실습과 1:1 맞춤교육을 내세우는 태권도 콘텐츠 중심 학과이다.",
+    "year": 2027,
+    "admissions": [
+      {
+        "round": "정시",
+        "name": "실기/실적(경기실적우수자전형) 가군",
+        "category": "실기위주",
+        "quota": null,
+        "elements": {
+          "학생부": 30,
+          "실적": 70
+        },
+        "practical": null,
+        "requirements": "국가대표(후보·상비군)·청소년대표 또는 대학 인정 전국대회(겨루기·자유품새) 경기실적 보유자(2024년 3월 이후 실적)",
+        "csatMinimum": "없음",
+        "competitionRate": null,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 정시모집요강 기준. 학생부교과 18%, 출결 12%, 서류(경기실적) 70%이다. 수시에서 남은 인원만 모집하며 2026.12.31.에 공고한다. 수시 전형(입학정원 35명)은 모집요강이 이미지 PDF라 확인하지 못했다."
+      }
+    ],
+    "sources": [
+      "https://ipsi.deu.ac.kr/main.do",
+      "https://tkd.deu.ac.kr/tkd/sub01_01.do"
+    ],
+    "verified": false,
+    "lastChecked": "2026-11-25"
+  },
+  {
+    "id": "tongmyong-ksports-tkd",
+    "type": "4year",
+    "university": "동명대학교",
+    "department": "K-sports태권도학과",
+    "college": "창의융합대학",
+    "region": "부산",
+    "city": "부산광역시 남구",
+    "establishment": "사립",
+    "website": "https://www.tu.ac.kr/taekwondo/index.do",
+    "admissionsUrl": "https://www.tu.ac.kr/iphak/index.do",
+    "tracks": [
+      "품새",
+      "겨루기",
+      "지도자"
+    ],
+    "careers": [
+      "태권도 지도자",
+      "생활체육지도자"
+    ],
+    "highlights": "창의융합대학 K-sports융합학부에 속한 학과로 글로벌 태권도 인재 양성을 내세운다. 대학 운동부(태권도부)와 운동부 우수장학 제도를 운영한다.",
+    "year": 2026,
+    "admissions": [
+      {
+        "round": "수시",
+        "name": "스포츠우수자전형(추정)",
+        "category": "기타",
+        "quota": null,
+        "elements": {},
+        "practical": null,
+        "requirements": null,
+        "csatMinimum": null,
+        "competitionRate": 3.08,
+        "gradeCut": 5.25,
+        "csatCut": null,
+        "notes": "2026학년도 수시 입시결과 기준(평균 4.62, 70%컷 5.25, 충원 15). 결과표 열 이름이 '일반고교과/스포츠우수자'로 함께 적혀 있어 어느 전형인지는 추정이다."
+      },
+      {
+        "round": "수시",
+        "name": "실기전형(추정)",
+        "category": "실기위주",
+        "quota": null,
+        "elements": {},
+        "practical": null,
+        "requirements": null,
+        "csatMinimum": null,
+        "competitionRate": 3,
+        "gradeCut": 4.88,
+        "csatCut": null,
+        "notes": "2026학년도 수시 입시결과 기준(평균 4.88, 70%컷 4.88). 결과표 열 이름이 '특성화고교과/실기'로 함께 적혀 있어 어느 전형인지는 추정이다."
+      },
+      {
+        "round": "수시",
+        "name": "창의인재전형",
+        "category": "학생부종합",
+        "quota": null,
+        "elements": {},
+        "practical": null,
+        "requirements": null,
+        "csatMinimum": null,
+        "competitionRate": 4.67,
+        "gradeCut": 4.5,
+        "csatCut": null,
+        "notes": "2026학년도 수시 입시결과 기준(평균 4.50, 70%컷 4.50, 충원 11). 결과표 열 이름은 '창의인재/소프트웨어인재'이다."
+      },
+      {
+        "round": "정시",
+        "name": "가군 일반전형",
+        "category": "수능위주",
+        "quota": null,
+        "elements": {
+          "수능": 100
+        },
+        "practical": null,
+        "requirements": null,
+        "csatMinimum": "없음",
+        "competitionRate": null,
+        "gradeCut": null,
+        "csatCut": null,
+        "notes": "2027학년도 정시모집요강 기준. 수시에서 남은 인원(★)만 수능 100%로 모집한다. 2027 수시 모집요강은 이미지 PDF라 전형 구성을 확인하지 못했다."
+      }
+    ],
+    "sources": [
+      "https://www.tu.ac.kr/taekwondo/index.do",
+      "https://www.tu.ac.kr/iphak/sub01_05.do?mode=view&articleNo=149367",
+      "https://www.tu.ac.kr/iphak/sub02_01.do?mode=view&articleNo=425524"
+    ],
+    "verified": false,
+    "lastChecked": "2026-11-25"
+  }
+]

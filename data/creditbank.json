@@ -1,0 +1,492 @@
+{
+  "overview": {
+    "summary": "학점은행제는 국가평생교육진흥원(cb.or.kr)이 운영하는 제도로, 대학 부설 평생교육원 등 평가인정 교육훈련기관에서 들은 수업과 자격증, 전적대학 학점 등을 학점으로 인정받아 학위를 취득하는 제도입니다. 교육부장관이 고시하는 학점은행제 표준교육과정에는 체육학사 학위 아래 '태권도학 전공'이 따로 있습니다. 따라서 수능이나 정시·수시 없이 고등학교 졸업 이상의 학력만으로 지원해 태권도학 전공 체육학사를 받을 수 있습니다. 전공필수는 스포츠사회학, 태권도겨루기, 태권도기본동작및유급자품새, 태권도사, 태권도시범및격파, 태권도연구방법, 태권도장경영, 태권도지도방법 등 8과목(24학점)입니다. 전공선택은 30과목으로, 태권도경기심판법, 창작품새, 품새지도법, 태권도영어, 호신술, 비교무술 등이 있습니다. 2026년 11월 기준 가천대·단국대·계명대·동아대·영산대(해운대·양산) 평생교육원이 태권도학 전공을 운영하고 있습니다. 한양대 미래인재교육원은 체육학 전공 안에 태권도 트랙을 두고 있습니다. 대부분 오프라인 실기 수업이고, 태권도 실기 과목은 원격으로 이수하기 어렵습니다. 도장 사범·관장처럼 일하면서 학위가 필요한 사람이나 대학원 진학을 원하는 사람에게 현실적인 경로입니다. 한 교육훈련기관에서 84학점 이상을 이수하면 해당 대학 총장 명의 학위를 받을 수 있는 기관도 있습니다.",
+    "degrees": [
+      {
+        "degree": "학사(체육학, 태권도학 전공)",
+        "totalCredits": 140,
+        "majorCredits": 60,
+        "generalCredits": 30,
+        "notes": "교육부장관 명의 학위 요건: 총 140학점 이상, 전공 60학점 이상, 교양 30학점 이상, 나머지는 일반선택입니다. 평가인정 학습과정 또는 시간제등록으로 이수한 학점이 18학점 이상 포함되어야 합니다. 태권도학 전공필수는 표준교육과정 기준 8과목으로, 단국대 평생교육원은 '전공필수 24학점 이상(8과목 혹은 24학점)'으로 안내합니다. 이미 학사학위가 있는 사람(타전공)은 전공필수를 포함해 전공 48학점 이상만 이수하면 됩니다. 이 가운데 전공 18학점 이상은 평가인정 학습과정 또는 시간제등록으로 이수해야 합니다. 1개 교육훈련기관에서 최대 105학점까지 인정됩니다(동의대 미래교육원 안내 기준)."
+      },
+      {
+        "degree": "전문학사(체육 계열, 예: 레저스포츠·의전경호)",
+        "totalCredits": 80,
+        "majorCredits": 45,
+        "generalCredits": 15,
+        "notes": "2년제 전문학사 요건: 총 80학점 이상, 전공 45학점 이상, 교양 15학점 이상입니다. 표준교육과정 학사 목록의 '태권도학 전공'은 학사 과정입니다. 전문학사 목록에서는 태권도 전공명을 직접 확인하지 못했습니다. 체육 계열 전문학사로는 레저스포츠 전공 등이 안내되어 있으며, 신한대 평생교육원은 전문학사 레저스포츠전공을 모집합니다. 전문학사 취득 후 학사로 연계하려면 전적 학점 최대 80학점이 인정됩니다."
+      },
+      {
+        "degree": "학사(체육학, 경호비서학 전공)",
+        "totalCredits": 140,
+        "majorCredits": 60,
+        "generalCredits": 30,
+        "notes": "표준교육과정 체육학사 아래에는 체육학 전공, 태권도학 전공, 경호비서학 전공, 건강관리학 전공, 이스포츠산업학 전공이 있습니다. 태권도와 경호 분야 진로를 함께 생각한다면 경호비서학 전공도 선택지입니다. 전공별 전공필수 과목은 cb.or.kr 표준교육과정 조회에서 확인할 수 있습니다."
+      }
+    ],
+    "creditRecognition": [
+      "자격 학점인정 원칙(cb.or.kr): 학사는 최대 3개, 전문학사는 최대 2개 자격이 인정됩니다. 전공과 연계되지 않은 자격은 최대 1개, 타전공 과정은 최대 1개만 인정되며, 같은 직무에 속한 자격은 1개만 인정됩니다. 전공연계 자격은 전공필수, 비연계 자격은 일반선택으로 인정됩니다.",
+      "생활스포츠지도사(국민체육진흥공단 발급): 제28차 자격 학점인정 기준(2025년 12월 고시)을 인용한 자료에 따르면 1급은 12학점, 2급은 6학점입니다. 취득일에 따라 인정 학점이 다를 수 있습니다. 영산대 평생교육원은 '생활체육지도자, 생활스포츠지도자 자격증 6~20학점 인정(최대 3개)'으로 안내합니다. 고시 원문 PDF는 텍스트 추출이 되지 않아 직접 확인하지 못했으므로 신청 전 당해 고시를 확인해야 합니다.",
+      "전문스포츠지도사·장애인스포츠지도사·유소년스포츠지도사·노인스포츠지도사: 국민체육진흥공단 자격(취득)확인서로 학점인정을 신청합니다. 다만 생활스포츠지도사와 같은 직무로 분류되면 1개만 인정될 수 있고, 학점 수는 당해 고시를 확인해야 합니다.",
+      "국기원 태권도 단증(품·단)과 태권도 사범 자격: 이번 조사에서는 학점은행제 자격 학점인정 대상으로 확인되지 않았습니다. 단증만으로 학점이 생기지는 않는 것으로 보이며, 국가평생교육진흥원(1600-0400)에 확인이 필요합니다.",
+      "컴퓨터·한자 등 전공과 무관한 국가공인자격: 1개까지 일반선택 학점으로 인정됩니다.",
+      "독학학위제(독학사): 1과정(교양) 합격 과목은 과목당 4학점(과정별 최대 20학점), 2~4과정은 과목당 5학점(과정별 최대 30학점)이 학점은행제 학점으로 인정됩니다. 독학사에는 체육·태권도 전공이 없으므로 주로 교양 학점을 채우는 용도로 쓸 수 있습니다.",
+      "전적대학: 전문대학 학점은 최대 80학점, 제적한 4년제 대학 학점은 최대 140학점까지 인정됩니다(성적 D- 이상). 4년제 대학을 졸업한 학점은 인정되지 않습니다.",
+      "국가무형유산: 국가무형유산 보유자·전승교육사·이수자의 전수교육 경험도 학점으로 인정됩니다. 택견은 표준교육과정 국가무형유산 분류(전통무예)에 별도로 있습니다."
+    ],
+    "steps": [
+      "1. 진로 설계: 표준교육과정(cb.or.kr > 표준교육과정 조회 > 체육학사 > 태권도학 전공)에서 전공필수 8과목과 전공선택 과목을 확인합니다.",
+      "2. 교육훈련기관 선택: 태권도학 전공을 운영하는 대학 부설 평생교육원(가천대·단국대·계명대·동아대·영산대 등)에 입학 상담을 받고 원서를 접수합니다. 서류전형 또는 면접이 대부분이고 수능과 내신은 반영하지 않습니다.",
+      "3. 학습자 등록: 국가평생교육진흥원 학점은행제 홈페이지(cb.or.kr)에서 학습자 등록을 합니다. 분기별 기간(1·4·7·10월 등)에 온라인으로 신청하며 수수료가 있습니다. 교육원이 대행하는 경우도 많습니다.",
+      "4. 수강: 학기(보통 3월·9월 개강, 일부 기관은 계절학기 포함)마다 수강신청을 하고 출석률 80% 이상, 성적 60점(D0) 이상을 받으면 과목이 인정됩니다. 연간 최대 42학점, 학기당 최대 24학점까지 인정됩니다.",
+      "5. 자격·전적대학 학점인정 신청: 생활스포츠지도사 등 자격, 전문대학 학점, 독학사 합격 과목이 있으면 분기별 학점인정 신청 기간에 신청합니다(1학점당 수수료).",
+      "6. 학위 신청: 140학점(학사)을 채우고 전공·교양·전공필수 요건을 충족하면 학위 신청 기간에 교육부장관 명의 학위를 신청합니다. 해당 대학에서 84학점 이상 이수 등 학칙 요건을 충족하면 대학 총장 명의 학위도 받을 수 있습니다.",
+      "7. 진로 연계: 학위 취득 후 일반대학원·교육대학원(태권도학·체육교육) 진학, 4년제 학사편입, 생활·전문스포츠지도사 자격 취득으로 이어갈 수 있습니다."
+    ],
+    "pros": [
+      "수능, 내신, 실기 입시 없이 고졸 이상이면 서류·면접만으로 시작할 수 있습니다.",
+      "도장 사범·관장 등 일하는 사람도 주말·야간·요일 선택 수업으로 병행할 수 있습니다(기관별 상이).",
+      "정규 대학보다 학비 부담이 작은 편입니다(과목당 약 24만~35만 원 수준, 기관별 상이).",
+      "전문대 학점, 자격증, 독학사로 학점을 단축할 수 있습니다.",
+      "일부 기관은 84학점 이상 이수 시 대학 총장 명의 학위를 받을 수 있습니다.",
+      "학사학위로 대학원 진학과 편입, 사범·지도자 경력에 필요한 학력 요건을 갖출 수 있습니다."
+    ],
+    "cons": [
+      "태권도학 전공을 운영하는 기관이 수도권 일부와 대구·부산·경남에 한정되어 있고, 실기 과목 특성상 원격 이수가 어렵습니다.",
+      "학습자 등록, 학점인정 신청, 학위 신청을 학습자가 직접 기간에 맞춰 챙겨야 합니다.",
+      "적정 수강인원이 미달하면 폐강될 수 있고, 학기마다 개설 과목이 달라질 수 있습니다.",
+      "정규 대학 태권도학과와 달리 시범단·선수단 활동이나 국가대표 선발 경로가 제한적입니다(기관별 상이).",
+      "교육부장관 명의 학위는 대학 졸업장과 인식 차이가 있을 수 있습니다.",
+      "국기원 단증 자체는 학점으로 인정되지 않는 것으로 보입니다(확인 필요)."
+    ],
+    "sources": [
+      "https://www.cb.or.kr/creditbank/stdPro/nStdPro1_1.do",
+      "https://www.cb.or.kr/creditbank/stdPro/nStdPro1_1_1.do",
+      "https://www.cb.or.kr/creditbank/stdPro/nStdPro1_1_3.do",
+      "https://www.cb.or.kr/creditbank/eduIntro/nEduIntro4_2.do",
+      "https://www.cb.or.kr/creditbank/eduIntro/nEduIntro2.do",
+      "https://www.cb.or.kr/creditbank/impartion/nImpartion2_List.do?m_szType=6",
+      "https://hansung.ac.kr/bbs/edubank/2060/18668/download.do",
+      "http://bsedu.ysu.ac.kr/Sub03/06.asp",
+      "http://jcec.dankook.ac.kr/bank/bank04_4.php"
+    ]
+  },
+  "institutions": [
+    {
+      "id": "gachon-lifelong-tkd",
+      "type": "creditbank",
+      "university": "가천대학교 부설 평생교육원(글로벌캠퍼스)",
+      "department": "태권도학 전공(체육학사)",
+      "college": null,
+      "region": "경기",
+      "city": "성남시",
+      "establishment": "사립",
+      "degree": "학사",
+      "mode": "오프라인",
+      "website": "https://www.gachon.ac.kr/open/index.do",
+      "admissionsUrl": "https://www.gachon.ac.kr/open/1843/subview.do",
+      "tracks": ["시범", "품새", "겨루기", "지도자"],
+      "careers": ["태권도사범", "국가대표태권도시범단원", "민간태권도시범공연단 코치", "겨루기·품새 코치", "태권도프랜차이즈 운영", "생활스포츠지도사", "유아체육지도사", "대학원 진학"],
+      "highlights": "500㎡ 규모의 태권도 전용 실습장을 갖추고 시범단과 품새단을 운영합니다. 태권도 문화산업 창업동아리와 2급 전문·생활스포츠지도사 등 국가자격 대비 프로그램도 안내합니다.",
+      "year": 2027,
+      "admissions": [
+        {
+          "round": "상시",
+          "name": "학위교육과정 신입생 모집",
+          "category": "면접",
+          "quota": null,
+          "elements": {"면접": 100},
+          "practical": null,
+          "requirements": "고등학교 졸업(예정)자, 검정고시 합격자, 2·3·4년제 대학 중퇴자 또는 졸업자 등 고졸 이상 학력 소지자",
+          "csatMinimum": "없음",
+          "competitionRate": null,
+          "gradeCut": null,
+          "csatCut": null,
+          "tuition": "과목당 350,000원",
+          "notes": "모집요강상 상시모집이며 면접 100%, 수능·내신은 반영하지 않습니다. 전공사무실(031-750-5921)에 연락해 상담 후 방문 접수합니다. 제출서류는 원서, 최종학력증명서, 성적증명서(해당자), 신분증 사본입니다."
+        }
+      ],
+      "sources": [
+        "https://www.gachon.ac.kr/open/1862/subview.do",
+        "https://www.gachon.ac.kr/open/1843/subview.do",
+        "https://www.cb.or.kr/creditbank/stdPro/nStdPro1_1_3.do"
+      ],
+      "verified": true,
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "id": "dankook-lifelong-tkd",
+      "type": "creditbank",
+      "university": "단국대학교 부설 평생교육원(죽전캠퍼스)",
+      "department": "태권도학 전공(체육학사)",
+      "college": null,
+      "region": "경기",
+      "city": "용인시",
+      "establishment": "사립",
+      "degree": "학사",
+      "mode": "오프라인",
+      "website": "http://jcec.dankook.ac.kr",
+      "admissionsUrl": "http://jcec.dankook.ac.kr/bank/list_new.php?mjCd=2000004437",
+      "tracks": ["겨루기", "품새", "시범", "지도자"],
+      "careers": ["국내외 태권도 지도자", "태권도장 운영", "태권도사범", "경호 및 공안 관계 직종", "각급 학교 교사 및 연구원", "대학원 진학"],
+      "highlights": "2026학년도 2학기 학점은행제 과정에 태권도학 강좌를 개설했습니다. '1인 2자격증' 체육 자격 대비 프로그램을 운영하며, 단국대 총장 명의 학사학위 취득도 가능합니다(140학점 중 84학점 이상 이수 시).",
+      "year": 2027,
+      "admissions": [
+        {
+          "round": "학기별",
+          "name": "학점은행제 수강신청(1·2학기)",
+          "category": "서류",
+          "quota": null,
+          "elements": null,
+          "practical": null,
+          "requirements": "고등학교 졸업(예정자) 이상 학력 소지자",
+          "csatMinimum": "없음",
+          "competitionRate": null,
+          "gradeCut": null,
+          "csatCut": null,
+          "tuition": null,
+          "notes": "2026-2학기는 2026.08.03~08.12에 접수했고, 추가 접수는 08.13~08.18(개강 강좌에 한함)이었습니다. 수업은 9월 1일~12월 14일, 15주 과정입니다. 2027-1학기 일정은 2027년 1~2월 공지 예정으로 보이며 확인이 필요합니다. 학위요건은 전공필수 24학점 이상(8과목 혹은 24학점), 전공선택 36학점 이상, 교양 30학점 이상을 포함한 140학점입니다. 문의: 031-8005-2613~5"
+        }
+      ],
+      "sources": [
+        "http://jcec.dankook.ac.kr/bank/bank04_4.php",
+        "http://jcec.dankook.ac.kr/bank/list_new.php?mjCd=2000004437",
+        "https://www.mt.co.kr/policy/2026/08/04/2026080409524056490"
+      ],
+      "verified": true,
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "id": "keimyung-lifelong-tkd",
+      "type": "creditbank",
+      "university": "계명대학교 계명시민교육원",
+      "department": "태권도학 전공(체육학사)",
+      "college": null,
+      "region": "대구",
+      "city": "대구 남구",
+      "establishment": "사립",
+      "degree": "학사",
+      "mode": "오프라인",
+      "website": "https://cms.kmu.ac.kr/edulife/index.do",
+      "admissionsUrl": "https://cms.kmu.ac.kr/edulife/18921/subview.do",
+      "tracks": ["겨루기", "품새", "시범", "지도자"],
+      "careers": ["코치", "생활체육지도자", "스포츠마케터", "경기지도자", "운동처방사", "스포츠마사지사", "체육 관련 협회·단체", "체육 관련 대학원 진학"],
+      "highlights": "대명캠퍼스에서 태권도학 전공필수 8과목과 전공선택 12과목을 운영합니다. 1학기·하계·2학기·동계 연 4회 모집합니다.",
+      "year": 2027,
+      "admissions": [
+        {
+          "round": "연 4회(2월·6월·8월·12월)",
+          "name": "신입생 원서접수 및 수강신청",
+          "category": "서류(선착순)",
+          "quota": null,
+          "elements": null,
+          "practical": null,
+          "requirements": "고등학교 졸업 이상 학력 소지자(최종학력증명서, 주민등록등본, 성적증명서 등 제출)",
+          "csatMinimum": "없음",
+          "competitionRate": null,
+          "gradeCut": null,
+          "csatCut": null,
+          "tuition": null,
+          "notes": "서류전형(등기우편 또는 방문접수)이며 정원 내 선착순으로 과목별 30명 이내를 모집합니다. 2026학년도 2학기 접수는 2026.8.3~8.25였습니다. 다음 접수는 동계계절학기(12월)와 2027-1학기(2월)입니다. 접수처는 대구 남구 명덕로 104 계명대 대명캠퍼스 비사관 303호이고, 학점은행제 문의는 053-620-2292~3입니다. 학습비는 확인하지 못했습니다."
+        }
+      ],
+      "sources": [
+        "https://cms.kmu.ac.kr/edulife/18927/subview.do",
+        "https://cms.kmu.ac.kr/edulife/18921/subview.do",
+        "https://www.cb.or.kr/creditbank/stdPro/nStdPro1_1_3.do"
+      ],
+      "verified": true,
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "id": "donga-lifelong-tkd",
+      "type": "creditbank",
+      "university": "동아대학교 부설 평생교육원",
+      "department": "태권도학 전공(체육학사)",
+      "college": null,
+      "region": "부산",
+      "city": "부산 서구",
+      "establishment": "사립",
+      "degree": "학사",
+      "mode": "오프라인",
+      "website": "http://donga-edu.donga.ac.kr",
+      "admissionsUrl": "http://donga-edu.donga.ac.kr/bank/regist_info.aspx",
+      "tracks": ["겨루기", "품새", "시범", "심판", "지도자"],
+      "careers": ["태권도사범·지도자", "태권도장 운영", "생활스포츠지도사", "체육 관련 대학원 진학"],
+      "highlights": "부민캠퍼스에서 태권도학 전공필수 8과목과 태권도경기심판법, 유단자품새 등 전공선택 과목을 운영합니다. 1년 3학기제로 모집합니다.",
+      "year": 2027,
+      "admissions": [
+        {
+          "round": "학기별(연 3회)",
+          "name": "학점은행제 원서접수",
+          "category": "서류",
+          "quota": null,
+          "elements": null,
+          "practical": null,
+          "requirements": "고등학교 졸업자 또는 동등 이상의 학력 소지자",
+          "csatMinimum": "없음",
+          "competitionRate": null,
+          "gradeCut": null,
+          "csatCut": null,
+          "tuition": null,
+          "notes": "접수기간은 1학기 1월 말~2월 말, 2학기 6월 초~6월 말, 3학기 10월 초~10월 말입니다. 방문접수(부민캠퍼스 종합강의동 평생교육원 행정지원실)로만 받습니다. 학점인정 대상 자격증이 있으면 사본을 제출합니다. 적정 수강인원이 미달하면 폐강될 수 있습니다. 문의: 051-200-8452~6"
+        }
+      ],
+      "sources": [
+        "http://donga-edu.donga.ac.kr/bank/major_teakwondo.aspx",
+        "http://donga-edu.donga.ac.kr/bank/regist_info.aspx",
+        "https://www.cb.or.kr/creditbank/stdPro/nStdPro1_1_3.do"
+      ],
+      "verified": true,
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "id": "youngsan-haeundae-lifelong-tkd",
+      "type": "creditbank",
+      "university": "영산대학교 평생교육원 해운대캠퍼스",
+      "department": "태권도학 전공(체육학사)",
+      "college": null,
+      "region": "부산",
+      "city": "부산 해운대구",
+      "establishment": "사립",
+      "degree": "학사",
+      "mode": "오프라인",
+      "website": "http://bsedu.ysu.ac.kr",
+      "admissionsUrl": "http://bsedu.ysu.ac.kr/Sub03/06.asp",
+      "tracks": ["겨루기", "품새", "시범", "지도자"],
+      "careers": ["태권도 관장·사범", "국내외 태권도 지도자", "생활스포츠지도사", "대학원 진학"],
+      "highlights": "'관장님! 사범님!'을 대상으로 한 태권도학전공 학점은행 과정입니다. 주 2~3일 평일·주말 중 원하는 과목과 시간을 골라 들을 수 있고, 영산대 태권도학부 시간제와 양산·부산캠퍼스 교차 수업도 가능합니다.",
+      "year": 2027,
+      "admissions": [
+        {
+          "round": "연중(3월·9월 개강)",
+          "name": "학점은행제 태권도학전공 신입생 및 편입생 모집(무시험)",
+          "category": "서류(무시험)",
+          "quota": null,
+          "elements": null,
+          "practical": null,
+          "requirements": "고등학교 졸업 이상 학력자",
+          "csatMinimum": "없음",
+          "competitionRate": null,
+          "gradeCut": null,
+          "csatCut": null,
+          "tuition": "과목당 24만원(3학점 기준)",
+          "notes": "연중 사전 접수를 받습니다. 생활체육지도자·생활스포츠지도자 자격증으로 6~20학점 인정(최대 3개)을 안내합니다. 84학점 이상 이수 시 또는 학사학위 소지자가 전공 48학점을 이수하면 영산대 총장 명의 학사학위를 받을 수 있습니다. 국가유공자는 학비가 면제됩니다. 문의: 051-540-7265/7650"
+        }
+      ],
+      "sources": [
+        "http://bsedu.ysu.ac.kr/Sub03/06.asp",
+        "https://www.cb.or.kr/creditbank/stdPro/nStdPro1_1_3.do"
+      ],
+      "verified": true,
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "id": "youngsan-yangsan-lifelong-tkd",
+      "type": "creditbank",
+      "university": "영산대학교 부설 평생교육원(양산캠퍼스)",
+      "department": "태권도학전공(체육학사)",
+      "college": null,
+      "region": "경남",
+      "city": "양산시",
+      "establishment": "사립",
+      "degree": "학사·전문학사",
+      "mode": "오프라인",
+      "website": "http://ysedu.ysu.ac.kr",
+      "admissionsUrl": "http://ysedu.ysu.ac.kr/Sub03/02.asp",
+      "tracks": ["겨루기", "품새", "시범", "지도자"],
+      "careers": ["국내외 태권도 지도자", "태권도사범", "사회복지사·평생교육사(관련 과목 이수 시)", "영산대 본과 편입", "대학원 진학"],
+      "highlights": "영산대는 2001년 태권도전공을 개설했고 2006년 국내 최초로 태권도대학원을 열었습니다. 이 전통을 바탕으로 현장실습·어학·정신교육을 함께 운영합니다. 70학점 이상 이수 시 영산대 본과 편입 인센티브를 안내합니다.",
+      "year": 2027,
+      "admissions": [
+        {
+          "round": "학기별",
+          "name": "학점은행제 태권도학전공 학습자 모집",
+          "category": "서류",
+          "quota": null,
+          "elements": null,
+          "practical": null,
+          "requirements": "고등학교 졸업 이상(전문학사 80학점, 학사 140학점)",
+          "csatMinimum": "없음",
+          "competitionRate": null,
+          "gradeCut": null,
+          "csatCut": null,
+          "tuition": null,
+          "notes": "전문대 졸업자는 전적대 학점이 최대 80학점까지 인정되어 60~90학점을 이수하면 되고, 4년제 졸업자(타전공)는 48학점이면 됩니다. 국가공인 자격증은 최대 3개 종목, 6~20학점까지 인정을 안내합니다. 본원에서 84학점 이상 이수 시 총장 명의 학위를 받을 수 있습니다. 모집 시기와 학습비는 확인하지 못했으니 055-380-9536으로 문의하세요. 전문학사 취득 조건은 기관 안내에 있으나 표준교육과정상 태권도학 전공은 학사 과정이므로 전문학사 전공명은 확인이 필요합니다."
+        }
+      ],
+      "sources": [
+        "http://ysedu.ysu.ac.kr/Sub03/02.asp",
+        "https://www.cb.or.kr/creditbank/stdPro/nStdPro1_1_3.do"
+      ],
+      "verified": true,
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "id": "hanyang-mirae-pe-tkd",
+      "type": "creditbank",
+      "university": "한양대학교 미래인재교육원",
+      "department": "체육학 전공(건강관리·레저스포츠·태권도 트랙)",
+      "college": null,
+      "region": "서울",
+      "city": "서울 성동구",
+      "establishment": "사립",
+      "degree": "학사",
+      "mode": "오프라인",
+      "website": "https://mirae.hanyang.ac.kr",
+      "admissionsUrl": "https://mirae.hanyang.ac.kr/front/ko/courseinfo/recruitment/recruitment1",
+      "tracks": ["태권도 이론·실기", "지도자"],
+      "careers": ["체육 지도자", "태권도 지도자", "체육 관련 대학원 진학", "편입"],
+      "highlights": "한양대 총장 명의 체육학 전공 안에 '건강관리·레저스포츠·태권도' 트랙을 운영합니다. 평가인정 과목에는 태권도사, 태권도장경영, 태권도지도방법, 태권도겨루기 등이 포함되어 있습니다. 일반(주중 주간) 과정과 직장인(주말) 과정이 있습니다.",
+      "year": 2027,
+      "admissions": [
+        {
+          "round": "6차(12월) 전형",
+          "name": "2027-1학기 학위과정 신·편입생 모집",
+          "category": "서류",
+          "quota": null,
+          "elements": {"서류": 100},
+          "practical": null,
+          "requirements": "고등학교 졸업 이상 학력 소지자(검정고시, 전문대졸, 대졸, 대학 중퇴, 학점은행제 학점 취득자 포함). 직장인 과정은 재직 증빙 필요",
+          "csatMinimum": "없음",
+          "competitionRate": null,
+          "gradeCut": null,
+          "csatCut": null,
+          "tuition": "과목당 350,000원(체육학 교육과정표 기준)",
+          "notes": "2027-1학기 모집 일정: 6차 2026.11.16~12.07(전형 12.12~13), 7차 2026.12.14~2027.01.11, 8차 2027.01.18~02.04, 추가모집 2027.02.15~02.22. 체육계열은 서류전형입니다. 문의: 02-2220-1761"
+        }
+      ],
+      "sources": [
+        "https://mirae.hanyang.ac.kr/front/ko/healthsports/physicaleducation1",
+        "https://mirae.hanyang.ac.kr/front/ko/courseinfo/recruitment/recruitment1",
+        "https://www.cb.or.kr/creditbank/stdPro/nStdPro1_1_3.do"
+      ],
+      "verified": true,
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "id": "shinhan-lifelong-pe",
+      "type": "creditbank",
+      "university": "신한대학교 평생교육원",
+      "department": "체육학전공(태권도 과목 평가인정)",
+      "college": null,
+      "region": "경기",
+      "city": "의정부시",
+      "establishment": "사립",
+      "degree": "학사·전문학사",
+      "mode": "오프라인",
+      "website": "https://life.shinhan.ac.kr",
+      "admissionsUrl": "https://www.shinhan.ac.kr/life/6606/subview.do",
+      "tracks": [],
+      "careers": ["체육 지도자", "태권도 지도자"],
+      "highlights": "국가평생교육진흥원 기준으로 태권도학 전공필수 과목(태권도겨루기, 태권도사, 태권도시범및격파 등)이 평가인정되어 있습니다. 다만 현재 평생교육원 모집 페이지에는 체육학전공(학사 40명)과 레저스포츠전공(전문학사)만 표시됩니다. 신한대는 본교에 태권도·체육대학을 두고 있습니다.",
+      "year": 2027,
+      "admissions": [
+        {
+          "round": "학기별",
+          "name": "교육부장관 명의 학위과정 모집",
+          "category": "서류",
+          "quota": 40,
+          "elements": null,
+          "practical": null,
+          "requirements": "학사: 고등학교 졸업(예정)자, 전문대학 이상 졸업(예정)자 / 전문학사: 고등학교 졸업(예정)자",
+          "csatMinimum": "없음",
+          "competitionRate": null,
+          "gradeCut": null,
+          "csatCut": null,
+          "tuition": null,
+          "notes": "모집인원 40명은 체육학전공(학사) 기준입니다. 태권도학 전공으로 학위를 받을 수 있는지는 확인되지 않았으므로 031-870-3813으로 문의가 필요합니다."
+        }
+      ],
+      "sources": [
+        "https://www.shinhan.ac.kr/life/6606/subview.do",
+        "https://www.cb.or.kr/creditbank/stdPro/nStdPro1_1_3.do"
+      ],
+      "verified": false,
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "id": "seoulhyundai-tkd-security",
+      "type": "creditbank",
+      "university": "서울현대실용전문학교",
+      "department": "태권도경호(4년제)·태권도경영(레저스포츠)",
+      "college": null,
+      "region": "서울",
+      "city": null,
+      "establishment": "사립",
+      "degree": "학사·전문학사",
+      "mode": "오프라인",
+      "website": "http://www.hyundai1990.ac.kr",
+      "admissionsUrl": "http://www.hyundai1990.ac.kr/depart2_1/index_p.asp?code=a05",
+      "tracks": ["경호", "도장경영"],
+      "careers": ["경호원", "경찰공무원 준비", "태권도장 운영·사범", "레저스포츠 지도자"],
+      "highlights": "학점은행제 교육훈련기관인 사설 직업전문학교입니다. 경찰경호계열 '태권도경호(4년제)'와 생활체육계열 '태권도경영(레저스포츠)' 과정을 안내합니다. 표준교육과정의 태권도지도방법 과목이 평가인정되어 있습니다.",
+      "year": 2027,
+      "admissions": [
+        {
+          "round": "상시",
+          "name": "신입생 모집",
+          "category": "서류·면접",
+          "quota": null,
+          "elements": null,
+          "practical": null,
+          "requirements": "고등학교 졸업(예정) 이상",
+          "csatMinimum": "없음",
+          "competitionRate": null,
+          "gradeCut": null,
+          "csatCut": null,
+          "tuition": null,
+          "notes": "홈페이지에 면접예상질문 메뉴가 있어 면접이 있는 것으로 보이지만, 전형 방법·학비·수여 학위 전공명(체육학사 태권도학/경호비서학, 레저스포츠 전문학사 등)은 확인하지 못했습니다. 홈페이지 일부 내용이 오래된 것으로 보이므로 02-2637-0123으로 확인이 필요합니다."
+        }
+      ],
+      "sources": [
+        "http://www.hyundai1990.ac.kr/depart2_1/index_p.asp?code=a05",
+        "http://www.hyundai1990.ac.kr/depart2_1/index_s.asp?code=e09",
+        "https://www.cb.or.kr/creditbank/stdPro/nStdPro1_1_3.do"
+      ],
+      "verified": false,
+      "lastChecked": "2026-11-25"
+    },
+    {
+      "id": "myongji-future-pe-martial",
+      "type": "creditbank",
+      "university": "명지대학교 미래교육원",
+      "department": "체육학사 학위과정 + 무예(태권도) 전문교육과정",
+      "college": null,
+      "region": "서울",
+      "city": "서울 서대문구",
+      "establishment": "사립",
+      "degree": "학사",
+      "mode": "오프라인",
+      "website": "https://www.mju.ac.kr/ice1/7651/subview.do",
+      "admissionsUrl": "https://www.mju.ac.kr/ice1/8747/subview.do",
+      "tracks": ["태권도", "합기도", "해동검도"],
+      "careers": ["무예 분야 선수·사범", "해외 파견 지도자", "체육 지도자"],
+      "highlights": "명지대 총장 명의 체육학사 학위과정(학점은행제)과 함께 태권도·합기도·해동검도 사범 양성 전문교육과정(2년)을 운영합니다. 태권도학 전공 학위가 아니라 체육학사이며, 무예 과정은 별도의 비학위 전문교육과정입니다.",
+      "year": 2027,
+      "admissions": [
+        {
+          "round": "학기별",
+          "name": "체육학사 학위과정 모집",
+          "category": "서류·실기",
+          "quota": 40,
+          "elements": null,
+          "practical": null,
+          "requirements": "고교 졸업자 140학점(4년), 전문대 졸업자 84학점(2년), 타전공 대졸 이상 48학점(1년 6개월)",
+          "csatMinimum": "없음",
+          "competitionRate": null,
+          "gradeCut": null,
+          "csatCut": null,
+          "tuition": "무예 전문교육과정(태권도·합기도·해동검도) 학기당 690,000원",
+          "notes": "모집인원 40명은 고졸 대상 체육학사 과정 기준입니다. 2025학년도 원서접수 안내에서 체육계열은 서류+실기전형으로 안내되었으며 2027학년도 전형은 확인이 필요합니다. 학위과정 학비는 확인하지 못했습니다. 문의: 학위과정 02-300-1895, 무예명상체육 02-300-1816"
+        }
+      ],
+      "sources": [
+        "https://www.mju.ac.kr/ice1/7651/subview.do",
+        "https://www.mju.ac.kr/ice1/8747/subview.do"
+      ],
+      "verified": false,
+      "lastChecked": "2026-11-25"
+    }
+  ]
+}

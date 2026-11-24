@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>태권도학과 입시 분석</title>
+  <meta name="description" content="전국 4년제·전문대학·학점은행 태권도 관련 학과 정보와 입시전형을 한눈에 비교하고, 내 성적·실기 경력으로 맞춤 입시 분석을 받아보세요." />
+  <meta property="og:title" content="태권도학과 입시 분석" />
+  <meta property="og:description" content="전국 태권도 관련 학과 리스트 · 전형 비교 · 단계별 맞춤 입시 분석" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='46' fill='%23c8102e'/><path d='M50 4a46 46 0 0 1 0 92a23 23 0 0 1 0-46a23 23 0 0 0 0-46z' fill='%230047a0'/></svg>" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap topbar-inner">
+      <a href="#/" class="brand" aria-label="홈">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <span class="brand-text">태권도 입시<span class="brand-sub">Taekwondo Admission</span></span>
+      </a>
+      <nav class="nav" aria-label="주요 메뉴">
+        <a href="#/list" data-nav="list">대학 찾기</a>
+        <a href="#/analyze" data-nav="analyze">입시 분석</a>
+        <a href="#/compare" data-nav="compare">비교<span class="badge" id="compareCount" hidden>0</span></a>
+        <a href="#/guide" data-nav="guide">입시 가이드</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="app" class="wrap" tabindex="-1">
+    <div class="loading">데이터를 불러오는 중…</div>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap">
+      <p><strong>안내</strong> 이 사이트의 정보는 각 대학 입학처·대학어디가·언론 보도 등 공개 자료를 정리한 참고용입니다. 모집인원·반영비율·실기종목은 매년 바뀌므로 <strong>지원 전 반드시 해당 대학 모집요강을 확인</strong>하세요. 분석 결과는 합격을 보장하지 않습니다.</p>
+      <p class="muted" id="dataStamp"></p>
+    </div>
+  </footer>
+
+  <script src="js/data.js"></script>
+  <script src="js/analyzer.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
